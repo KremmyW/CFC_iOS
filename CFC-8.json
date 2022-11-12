@@ -4,7 +4,7 @@
          "confTeams": [
             {
                "abbreviation": "ALA",
-               "prestige": "90",
+               "prestige": "95",
                "hexColor": "#9E1B32",
                "offCoordinator": {
                   "contractLength": "2",
