@@ -2112,7 +2112,7 @@
             {
                "abbreviation": "OKST",
                "prestige": "80",
-               "hexColor": "#FE5C300",
+               "hexColor": "#fe5c00",
                "offCoordinator": {
                   "contractLength": "1",
                   "startYear": "2021",
