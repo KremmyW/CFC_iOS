@@ -5,7 +5,7 @@
             {
                "abbreviation": "ALA",
                "prestige": "90",
-               "hexColor": "#9E1B32",
+               "hexColor": "#9D2235",
                "offCoordinator": {
                   "contractLength": "2",
                   "startYear": "2021",
@@ -71,7 +71,7 @@
             {
                "abbreviation": "FLA",
                "prestige": "70",
-               "hexColor": "#0021A5",
+               "hexColor": "#003087",
                "offCoordinator": {
                   "contractLength": "7",
                   "startYear": "2021",
@@ -199,7 +199,7 @@
             {
                "abbreviation": "LSU",
                "prestige": "80",
-               "hexColor": "#461D7C",
+               "hexColor": "#582C83",
                "offCoordinator": {
                   "contractLength": "3",
                   "startYear": "2021",
@@ -263,8 +263,8 @@
             },
             {
                "abbreviation": "AUB",
-               "prestige": "50",
-               "hexColor": "#0C2340",
+               "prestige": "60",
+               "hexColor": "#FA4616",
                "offCoordinator": {
                   "contractLength": "3",
                   "startYear": "2021",
@@ -327,7 +327,7 @@
             },
             {
                "abbreviation": "TENN",
-               "prestige": "85",
+               "prestige": "80",
                "hexColor": "#FF8200",
                "offCoordinator": {
                   "contractLength": "3",
@@ -389,7 +389,7 @@
             {
                "abbreviation": "MISS",
                "prestige": "80",
-               "hexColor": "#11284A",
+               "hexColor": "#13294B",
                "offCoordinator": {
                   "contractLength": "2",
                   "startYear": "2021",
@@ -455,7 +455,7 @@
             {
                "abbreviation": "VAN",
                "prestige": "30",
-               "hexColor": "#D0AF72",
+               "hexColor": "#D4AD67",
                "offCoordinator": {
                   "contractLength": "2",
                   "startYear": "2021",
