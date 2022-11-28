@@ -4,7 +4,7 @@
          "confTeams": [
             {
                "abbreviation": "ALA",
-               "prestige": "90",
+               "prestige": "95",
                "hexColor": "#9D2235",
                "offCoordinator": {
                   "contractLength": "2",
@@ -70,7 +70,7 @@
             },
             {
                "abbreviation": "FLA",
-               "prestige": "70",
+               "prestige": "60",
                "hexColor": "#003087",
                "offCoordinator": {
                   "contractLength": "7",
@@ -198,7 +198,7 @@
             },
             {
                "abbreviation": "LSU",
-               "prestige": "80",
+               "prestige": "75",
                "hexColor": "#582C83",
                "offCoordinator": {
                   "contractLength": "3",
@@ -263,7 +263,7 @@
             },
             {
                "abbreviation": "AUB",
-               "prestige": "60",
+               "prestige": "55",
                "hexColor": "#FA4616",
                "offCoordinator": {
                   "contractLength": "3",
@@ -388,7 +388,7 @@
             },
             {
                "abbreviation": "MISS",
-               "prestige": "80",
+               "prestige": "70",
                "hexColor": "#13294B",
                "offCoordinator": {
                   "contractLength": "2",
@@ -454,7 +454,7 @@
             },
             {
                "abbreviation": "VAN",
-               "prestige": "30",
+               "prestige": "25",
                "hexColor": "#D4AD67",
                "offCoordinator": {
                   "contractLength": "2",
@@ -576,7 +576,7 @@
             },
             {
                "abbreviation": "UK",
-               "prestige": "75",
+               "prestige": "70",
                "hexColor": "#0033A0",
                "offCoordinator": {
                   "contractLength": "3",
@@ -707,7 +707,7 @@
             },
             {
                "abbreviation": "MICH",
-               "prestige": "85",
+               "prestige": "95",
                "hexColor": "#00274C",
                "offCoordinator": {
                   "contractLength": "3",
@@ -769,7 +769,7 @@
             },
             {
                "abbreviation": "IU",
-               "prestige": "35",
+               "prestige": "25",
                "hexColor": "#990000",
                "offCoordinator": {
                   "contractLength": "2",
@@ -831,7 +831,7 @@
             },
             {
                "abbreviation": "MSU",
-               "prestige": "65",
+               "prestige": "60",
                "hexColor": "#18453B",
                "offCoordinator": {
                   "contractLength": "3",
@@ -894,7 +894,7 @@
             },
             {
                "abbreviation": "NW",
-               "prestige": "30",
+               "prestige": "25",
                "hexColor": "#4E2A84",
                "offCoordinator": {
                   "contractLength": "4",
@@ -954,7 +954,7 @@
             },
             {
                "abbreviation": "WIS",
-               "prestige":"70",
+               "prestige":"65",
                "hexColor": "#C5050C",
                "offCoordinator": {
                   "contractLength": "3",
@@ -1014,7 +1014,7 @@
             },
             {
                "abbreviation": "IOWA",
-               "prestige": "70",
+               "prestige": "65",
                "hexColor": "#FFCD00",
                "offCoordinator": {
                   "contractLength": "3",
@@ -1079,7 +1079,7 @@
             },
             {
                "abbreviation": "MINN",
-               "prestige": "65",
+               "prestige": "60",
                "hexColor": "#7A0019",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1144,7 +1144,7 @@
             },
             {
                "abbreviation": "ILL",
-               "prestige": "65",
+               "prestige": "50",
                "hexColor": "#E04F39",
                "offCoordinator": {
                   "contractLength": "2",
@@ -1208,7 +1208,7 @@
             },
             {
                "abbreviation": "PUR",
-               "prestige": "60",
+               "prestige": "55",
                "hexColor": "#CEB888",
                "offCoordinator": {
                   "contractLength": "3",
@@ -1276,7 +1276,7 @@
          "confTeams": [
             {
                "abbreviation": "CLEM",
-               "prestige": "85",
+               "prestige": "90",
                "hexColor": "#F56600",
                "offCoordinator": {
                   "contractLength": "3",
@@ -1342,7 +1342,7 @@
             },
             {
                "abbreviation": "MIA",
-               "prestige": "60",
+               "prestige": "50",
                "hexColor": "#005030",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1405,7 +1405,7 @@
             },
             {
                "abbreviation": "UNC",
-               "prestige": "70",
+               "prestige": "65",
                "hexColor": "#7BAFD4",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1594,7 +1594,7 @@
             },
             {
                "abbreviation": "NCST",
-               "prestige": "80",
+               "prestige": "70",
                "hexColor": "#CC0000",
                "offCoordinator": {
                   "contractLength": "3",
@@ -1660,7 +1660,7 @@
             },
             {
                "abbreviation": "UMD",
-               "prestige": "60",
+               "prestige": "50",
                "hexColor": "#E61836",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1721,7 +1721,7 @@
             },
             {
                "abbreviation": "GT",
-               "prestige": "30",
+               "prestige": "25",
                "hexColor": "#003057",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1784,7 +1784,7 @@
             },
             {
                "abbreviation": "DUKE",
-               "prestige": "35",
+               "prestige": "30",
                "hexColor": "#003087",
                "offCoordinator": {
                   "contractLength": "1",
@@ -1846,7 +1846,7 @@
             },
             {
                "abbreviation": "WAKE",
-               "prestige": "75",
+               "prestige": "70",
                "hexColor": "#D1B787",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2041,7 +2041,7 @@
             },
             {
                "abbreviation": "NEB",
-               "prestige": "45",
+               "prestige": "40",
                "hexColor": "#D91E32",
                "offCoordinator": {
                   "contractLength": "3",
@@ -2111,7 +2111,7 @@
             },
             {
                "abbreviation": "OKST",
-               "prestige": "80",
+               "prestige": "75",
                "hexColor": "#fe5c00",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2230,7 +2230,7 @@
             },
             {
                "abbreviation": "MIZ",
-               "prestige": "45",
+               "prestige": "35",
                "hexColor": "#F8B61B",
                "offCoordinator": {
                   "contractLength": "3",
@@ -2357,7 +2357,7 @@
             },
             {
                "abbreviation": "BYU",
-               "prestige": "70",
+               "prestige": "65",
                "hexColor": "#002E5D",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2420,7 +2420,7 @@
             },
             {
                "abbreviation": "UTAH",
-               "prestige": "85",
+               "prestige": "80",
                "hexColor": "#CC0000",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2480,7 +2480,7 @@
             },
             {
                "abbreviation": "KU",
-               "prestige": "50",
+               "prestige": "35",
                "hexColor": "#0051BA",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2547,7 +2547,7 @@
          "confTeams": [
             {
                "abbreviation": "ORE",
-               "prestige": "85",
+               "prestige": "80",
                "hexColor": "#047840",
                "offCoordinator": {
                   "contractLength": "3",
@@ -2605,7 +2605,7 @@
             },
             {
                "abbreviation": "USC",
-               "prestige": "85",
+               "prestige": "90",
                "hexColor": "#9D2236",
                "offCoordinator": {
                   "contractLength": "2",
@@ -2667,7 +2667,7 @@
             },
             {
                "abbreviation": "WASH",
-               "prestige": "65",
+               "prestige": "70",
                "hexColor": "#9E2254",
                "offCoordinator": {
                   "contractLength": "1",
@@ -2725,7 +2725,7 @@
             },
             {
                "abbreviation": "STAN",
-               "prestige": "35",
+               "prestige": "25",
                "hexColor": "#8C1515",
                "offCoordinator": {
                   "contractLength": "2",
@@ -2787,7 +2787,7 @@
             },
             {
                "abbreviation": "ASU",
-               "prestige": "50",
+               "prestige": "45",
                "hexColor": "#8C1D40",
                "offCoordinator": {
                   "contractLength": "3",
@@ -2841,7 +2841,7 @@
             },
             {
                "abbreviation": "CAL",
-               "prestige": "30",
+               "prestige": "25",
                "hexColor": "041E42",
                "offCoordinator": {
                   "contractLength": "3",
@@ -2899,7 +2899,7 @@
             },
             {
                "abbreviation": "ORST",
-               "prestige": "60",
+               "prestige": "50",
                "hexColor": "#DC4405",
                "offCoordinator": {
                   "contractLength": "1",
@@ -3013,7 +3013,7 @@
             },
             {
                "abbreviation": "UCLA",
-               "prestige": "75",
+               "prestige": "70",
                "hexColor": "#2D68C4",
                "offCoordinator": {
                   "contractLength": "1",
