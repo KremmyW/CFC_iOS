@@ -32,7 +32,7 @@
 						"name": "Pete Golding",
 						"contractYear": "0"
 					},
-					"rival": "AUB",
+					"rival": ["AUB", "FLA"],
 					"headCoach": {
 						"contractLength": "6",
 						"startYear": "2022",
