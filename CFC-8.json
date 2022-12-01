@@ -7233,7 +7233,7 @@
             {
                "abbreviation": "GAST",
                "prestige": "25",
-               "hexColor": "#0039A6",
+               "hexColor": "#0032A0",
                "offCoordinator": {
                   "contractLength": "3",
                   "startYear": "2021",
@@ -7245,7 +7245,7 @@
                   "ratTalent": "60",
                   "baselinePrestige": "25",
                   "coachingAbility": "60",
-                  "name": "Brad Glenn",
+                  "name": "Trent McKnight",
                   "contractYear": "1"
                },
                "defCoordinator": {
@@ -7301,7 +7301,7 @@
                   "ratTalent": "46",
                   "baselinePrestige": "25",
                   "coachingAbility": "51",
-                  "name": "Doug Ruse",
+                  "name": "Bryan Ellis",
                   "contractYear": "1"
                },
                "defCoordinator": {
@@ -7315,11 +7315,10 @@
                   "ratTalent": "71",
                   "baselinePrestige": "25",
                   "coachingAbility": "60",
-                  "name": "Scot Sloan",
+                  "name": "Will Harris",
                   "contractYear": "1"
                },
                "rival": [
-                  "ARST",
                   "APP",
                   "GAST"
                ],
