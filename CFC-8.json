@@ -1,4 +1,21 @@
 {
+  "promotionRoutes" : {
+    "MAC" : "B1G",
+    "BEC" : "ACC",
+    "SBC" : "SEC",
+    "MWC" : "P12",
+    "AAC" : "XII",
+    "CUSA" : "SWC"
+  },
+  "baseYear" : 2023,
+  "relegationRoutes" : {
+    "XII" : "AAC",
+    "B1G" : "MAC",
+    "ACC" : "BEC",
+    "SWC" : "CUSA",
+    "SEC" : "SBC",
+    "P12" : "MWC"
+  },
    "conferences": [
       {
          "confTeams": [
@@ -70,7 +87,7 @@
             },
             {
                "abbreviation": "FLA",
-               "prestige": "80",
+               "prestige": "70",
                "hexColor": "#003087",
                "offCoordinator": {
                   "contractLength": "7",
@@ -1915,7 +1932,7 @@
             {
                "abbreviation": "OU",
                "prestige": "85",
-               "hexColor": "#841617",
+               "hexColor": "#9D2235",
                "offCoordinator": {
                   "contractLength": "7",
                   "startYear": "2021",
@@ -2668,7 +2685,7 @@
             {
                "abbreviation": "WASH",
                "prestige": "65",
-               "hexColor": "#9E2254",
+               "hexColor": "#330072",
                "offCoordinator": {
                   "contractLength": "1",
                   "startYear": "2021",
