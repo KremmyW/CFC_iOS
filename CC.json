@@ -40,7 +40,7 @@
 						"ratOff": "95",
 						"cumulativePrestige": "0",
 						"ratDef": "95",
-						"State": "West Virginia",
+						"homeState" : "West Virginia",
 						"ratPot": "95",
 						"hometown": "Fairmont",
 						"ratTalent": "95",
