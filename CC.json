@@ -2,8 +2,8 @@
 	"conferences": [{
 			"confTeams": [{
 					"abbreviation": "BAMA",
-					"prestige": "90",
-					"hexColor": "#9E1B32",
+					"prestige": "95",
+					"hexColor": "#9D2235",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -53,8 +53,8 @@
 				},
 				{
 					"abbreviation": "UF",
-					"prestige": "85",
-					"hexColor": "#0021A5",
+					"prestige": "75",
+					"hexColor": "#003087",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -104,7 +104,7 @@
 				},
 				{
 					"abbreviation": "UGA",
-					"prestige": "92",
+					"prestige": "95",
 					"hexColor": "#BA0C2F",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -155,7 +155,7 @@
 				},
 				{
 					"abbreviation": "TENN",
-					"prestige": "70",
+					"prestige": "80",
 					"hexColor": "#FF8200",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -206,7 +206,7 @@
 				},
 				{
 					"abbreviation": "AUB",
-					"prestige": "80",
+					"prestige": "70",
 					"hexColor": "#0C2340",
 					"offCoordinator": {
 						"contractLength": "3",
@@ -308,8 +308,8 @@
 				},
 				{
 					"abbreviation": "MISS",
-					"prestige": "65",
-					"hexColor": "#14213D",
+					"prestige": "75",
+					"hexColor": "#13294B",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -359,8 +359,8 @@
 				},
 				{
 					"abbreviation": "UK",
-					"prestige": "59",
-					"hexColor": "#0033A0",
+					"prestige": "70",
+					"hexColor": "#0032A0",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -411,7 +411,7 @@
 				{
 					"abbreviation": "MSST",
 					"prestige": "60",
-					"hexColor": "#660000",
+					"hexColor": "#6F2C3F",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -461,8 +461,8 @@
 				},
 				{
 					"abbreviation": "VAND",
-					"prestige": "45",
-					"hexColor": "#866D4B",
+					"prestige": "25",
+					"hexColor": "#D4AD67",
 					"offCoordinator": {
 						"contractLength": "3",
 						"startYear": "2022",
@@ -511,7 +511,7 @@
 					"state": "Tennessee"
 				}
 			],
-			"confFullName": "Southeastern Conference",
+			"confFullName": "SEC",
 			"confPrestige": "74",
 			"confName": "SEC"
 		},
