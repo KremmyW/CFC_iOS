@@ -1,21 +1,4 @@
 {
-  "promotionRoutes" : {
-    "MAC" : "B1G",
-    "BEC" : "ACC",
-    "SBC" : "SEC",
-    "MWC" : "P12",
-    "AAC" : "XII",
-    "CUSA" : "SWC"
-  },
-  "baseYear" : 2023,
-  "relegationRoutes" : {
-    "XII" : "AAC",
-    "B1G" : "MAC",
-    "ACC" : "BEC",
-    "SWC" : "CUSA",
-    "SEC" : "SBC",
-    "P12" : "MWC"
-  },
    "conferences": [
       {
          "confTeams": [
@@ -87,7 +70,7 @@
             },
             {
                "abbreviation": "FLA",
-               "prestige": "70",
+               "prestige": "90",
                "hexColor": "#003087",
                "offCoordinator": {
                   "contractLength": "7",
@@ -152,7 +135,7 @@
             },
             {
                "abbreviation": "UGA",
-               "prestige": "90",
+               "prestige": "95",
                "hexColor": "#BA0C2F",
                "offCoordinator": {
                   "contractLength": "3",
@@ -215,7 +198,7 @@
             },
             {
                "abbreviation": "LSU",
-               "prestige": "80",
+               "prestige": "90",
                "hexColor": "#582C83",
                "offCoordinator": {
                   "contractLength": "3",
@@ -280,7 +263,7 @@
             },
             {
                "abbreviation": "AUB",
-               "prestige": "70",
+               "prestige": "85",
                "hexColor": "#0C2340",
                "offCoordinator": {
                   "contractLength": "3",
@@ -344,7 +327,7 @@
             },
             {
                "abbreviation": "TENN",
-               "prestige": "75",
+               "prestige": "80",
                "hexColor": "#FF8200",
                "offCoordinator": {
                   "contractLength": "3",
@@ -405,7 +388,7 @@
             },
             {
                "abbreviation": "MISS",
-               "prestige": "70",
+               "prestige": "75",
                "hexColor": "#13294B",
                "offCoordinator": {
                   "contractLength": "2",
@@ -471,7 +454,7 @@
             },
             {
                "abbreviation": "VAN",
-               "prestige": "25",
+               "prestige": "35",
                "hexColor": "#D4AD67",
                "offCoordinator": {
                   "contractLength": "2",
