@@ -1,6 +1,6 @@
 { 
-   "baseYear" : 1978,
-   "conferences": [
+   "baseYear" : 1978
+   ,"conferences": [
       {
          "confTeams": [
             {
