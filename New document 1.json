@@ -1,0 +1,4397 @@
+{ 
+   "baseYear" : 1978
+   ,"conferences": [
+      {
+         "confTeams": [
+            {
+               "abbreviation": "ALA",
+               "prestige": "95",
+               "hexColor": "#9D2235",
+               "rival": [
+                  "AUB",
+                  "TENN",
+                  "LSU",
+                  "UGA",
+                  "MISS",
+                  "MSST",
+                  "FLA",
+                  "CLEM"
+               ],
+               "rivalryNames": {
+                  "AUB": "Iron Bowl",
+                  "TENN": "3rd Saturday of October",
+                  "LSU": "Saban Bowl",
+                  "MSST": "Battle of Highway 82"
+               },
+               "name": "Alabama",
+               "state": "Alabama"
+            },
+            {
+               "abbreviation": "FLA",
+               "prestige": "80",
+               "hexColor": "#003087",
+               "rival": [
+                  "AUB",
+                  "TENN",
+                  "UGA",
+                  "MIA",
+                  "FSU",
+                  "ALA",
+                  "LSU"
+               ],
+               "rivalryNames": {
+                  "FSU": "Sunshine Showdown",
+                  "UGA": "World's Largest Cocktail Party",
+                  "MIA": "Seminole War Canoe",
+                  "TENN": "3rd Saturday of September"
+               },
+               "name": "Florida",
+               "state": "Florida"
+            },
+            {
+               "abbreviation": "UGA",
+               "prestige": "80",
+               "hexColor": "#BA0C2F",
+               "rival": [
+                  "ALA",
+                  "AUB",
+                  "FLA",
+                  "SC",
+                  "CLEM",
+                  "VAN"
+               ],
+               "rivalryNames": {
+                  "FLA": "World's Largest Cocktail Party",
+                  "AUB": "Deep South's Oldest Rivalry",
+                  "GT": "Clean, Old-Fashioned Hate"
+               },
+               "name": "Georgia",
+               "state": "Georgia"
+            },
+            {
+               "abbreviation": "LSU",
+               "prestige": "85",
+               "hexColor": "#582C83",
+               "rival": [
+                  "ALA",
+                  "AUB",
+                  "MISS",
+                  "ARK",
+                  "FLA",
+                  "TULN"
+               ],
+               "rivalryNames": {
+                  "ALA": "Saban Bowl",
+                  "ARK": "Battle for the Golden Boot",
+                  "AUB": "Tiger Bowl",
+                  "MISS": "Magnolia Bowl",
+                  "TULN": "Battle for the Tiger Rag"
+               },
+               "name": "LSU",
+               "state": "Louisiana"
+            },
+            {
+               "abbreviation": "AUB",
+               "prestige": "80",
+               "hexColor": "#0C2340",
+               "rival": [
+                  "FLA",
+                  "LSU",
+                  "UGA",
+                  "GT",
+                  "CLEM",
+                  "TULN",
+                  "MISS"
+               ],
+               "rivalryNames": {
+                  "ALA": "Iron Bowl",
+                  "UGA": "Deep South's Oldest Rivalry",
+                  "LSU": "Tiger Bowl"
+               },
+               "name": "Auburn",
+               "state": "Alabama"
+            },
+            {
+               "abbreviation": "TENN",
+               "prestige": "80",
+               "hexColor": "#FF8200",
+               "rival": [
+                  "FLA",
+                  "ALA",
+                  "VAN",
+                  "UK"
+               ],
+               "rivalryNames": {
+                  "ALA": "3rd Saturday of October",
+                  "TENN": "3rd Saturday of September",
+                  "UK": "Battle for the Beer Barrel"
+               },
+               "name": "Tennessee",
+               "state": "Tennessee"
+            },
+            {
+               "abbreviation": "MISS",
+               "prestige": "70",
+               "hexColor": "#13294B",
+               "rival": [
+                  "MSST",
+                  "VAN",
+                  "LSU",
+                  "UK",
+                  "ALA",
+                  "ARK",
+                  "MEM",
+                  "AUB"
+               ],
+               "rivalryNames": {
+                  "LSU": "Magnolia Bowl",
+                  "MSST": "Egg Bowl",
+                  "MEM": "Mid-South Rivalry",
+                  "VAN": "Khaki Bowl"
+               },
+               "name": "Ole Miss",
+               "state": "Mississippi"
+            },
+            {
+               "abbreviation": "VAN",
+               "prestige": "35",
+               "hexColor": "#D4AD67",
+               "rival": [
+                  "UK",
+                  "MISS",
+                  "MSST",
+                  "TENN",
+                  "GT",
+                  "UGA"
+               ],
+               "rivalryNames": {
+                  "GT": "Battle for the Gold Cowbell",
+                  "MISS": "Khaki Bowl"
+               },
+               "name": "Vanderbilt",
+               "state": "Tennessee"
+            },
+            {
+               "abbreviation": "MSST",
+               "prestige": "50",
+               "hexColor": "#6F2C3F",
+               "rival": [
+                  "MISS",
+                  "VAN",
+                  "UK",
+                  "ALA"
+               ],
+               "rivalryNames": {
+                  "ALA": "Battle of Highway 82",
+                  "MISS": "Egg Bowl"
+               },
+               "name": "Mississippi State",
+               "state": "Mississippi"
+            },
+            {
+               "abbreviation": "UK",
+               "prestige": "40",
+               "hexColor": "#0032A0",
+               "rival": [
+                  "VAN",
+                  "TENN",
+                  "MISS",
+                  "MSST",
+                  "LOU",
+                  "TENN",
+                  "IU"
+               ],
+               "rivalryNames": {
+                  "LOU": "Governor's Cup",
+                  "IU": "Battle for the Bourbon Barrel",
+                  "TENN": "Battle for the Beer Barrel"
+               },
+               "name": "Kentucky",
+               "state": "Kentucky"
+            }
+         ],
+         "confFullName": "SEC",
+         "confPrestige": "95",
+         "confName": "SEC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "OSU",
+               "prestige": "95",
+               "hexColor": "#BB0000",
+               "rival": [
+                  "PSU",
+                  "ND",
+                  "MICH",
+                  "ILL"
+               ],
+               "rivalryNames": {
+                  "MICH": "The Game",
+                  "ILL": "Battle for Illibuck"
+               },
+               "name": "Ohio State",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "MICH",
+               "prestige": "95",
+               "hexColor": "#00274C",
+               "rival": [
+                  "OSU",
+                  "ND",
+                  "MSU",
+                  "MINN",
+                  "ILL"
+               ],
+               "rivalryNames": {
+                  "OSU": "The Game",
+                  "MSU": "Battle for the Paul Bunyan Trophy",
+                  "MINN": "Battle for the Little Brown Jug"
+               },
+               "name": "Michigan",
+               "state": "Michigan"
+            },
+            {
+               "abbreviation": "IU",
+               "prestige": "35",
+               "hexColor": "#990000",
+               "rival": [
+                  "PUR",
+                  "ILL",
+                  "NW",
+                  "MSU",
+                  "UK"
+               ],
+               "rivalryNames": {
+                  "PUR": "Battle for the Old Oaken Bucket",
+                  "MSU": "Battle for the Old Brass Spitoon",
+                  "UK": "Battle for the Bourbon Barrel"
+               },
+               "name": "Indiana",
+               "state": "Indiana"
+            },
+            {
+               "abbreviation": "MSU",
+               "prestige": "70",
+               "hexColor": "#18453B",
+               "rival": [
+                  "MINN",
+                  "PSU",
+                  "ND",
+                  "MICH",
+                  "IU"
+               ],
+               "rivalryNames": {
+                  "MICH": "Battle for the Paul Bunyan Trophy",
+                  "ND": "Battle for the Megaphone",
+                  "PSU": "Battle for the Land Grant Trophy",
+                  "IU": "Battle for the Old Brass Spitoon"
+               },
+               "name": "Michigan State",
+               "state": "Michigan"
+            },
+            {
+               "abbreviation": "NW",
+               "prestige": "45",
+               "hexColor": "#4E2A84",
+               "rival": [
+                  "ILL",
+                  "IOWA",
+                  "IU",
+                  "ND"
+               ],
+               "rivalryNames": {
+                  "ILL": "Land of Lincoln Trophy",
+                  "ND": "Battle for the Shillelagh"
+               },
+               "name": "Northwestern",
+               "state": "Illinois"
+            },
+            {
+               "abbreviation": "WIS",
+               "prestige":"70",
+               "hexColor": "#C5050C",
+               "rival": [
+                  "IOWA",
+                  "MINN",
+                  "NEB"
+               ],
+               "rivalryNames": {
+                  "IOWA": "Battle for the Heartland Trophy",
+                  "MINN": "Battle for Paul Bunyan's Axe",
+                  "NEB": "Battle for the Freedom Trophy"
+               },
+               "name": "Wisconsin",
+               "state": "Wisconsin"
+            },
+            {
+               "abbreviation": "IOWA",
+               "prestige": "70",
+               "hexColor": "#FFCD00",
+               "rival": [
+                  "WIS",
+                  "ND",
+                  "PUR",
+                  "NW",
+                  "NEB",
+                  "ISU",
+                  "MINN"
+               ],
+               "rivalryNames": {
+                  "WIS": "Battle for the Heartland Trophy",
+                  "MINN": "Battle for the Floyd of Rosedale",
+                  "ISU": "Battle for the Cy-Hawk Trophy",
+                  "NEB": "The Heroes Game"
+               },
+               "name": "Iowa",
+               "state": "Iowa"
+            },
+            {
+               "abbreviation": "MINN",
+               "prestige": "60",
+               "hexColor": "#7A0019",
+               "rival": [
+                  "MSU",
+                  "PSU",
+                  "WIS",
+                  "MICH",
+                  "IOWA",
+                  "NEB"
+               ],
+               "rivalryNames": {
+                  "MICH": "Battle for the Little Brown Jug",
+                  "WIS": "Battle for Paul Bunyan's Axe",
+                  "IOWA": "Battle for the Floyd of Rosedale",
+                  "PSU": "Battle for the Governor's Victory Bell",
+                  "NEB": "Battle for the $5 Bits of Broken Chair Trophy"
+               },
+               "name": "Minnesota",
+               "state": "Minnesota"
+            },
+            {
+               "abbreviation": "ILL",
+               "prestige": "45",
+               "hexColor": "#E04F39",
+               "rival": [
+                  "NW",
+                  "OSU",
+                  "IU",
+                  "PUR",
+                  "MIZ",
+                  "MICH"
+               ],
+               "rivalryNames": {
+                  "OSU": "Battle for Illibuck",
+                  "MIZ": "The Arch Rivalry",
+                  "PUR": "Battle for the Purdue Cannon",
+                  "NW": "Land of Lincoln Trophy"
+               },
+               "name": "Illinois",
+               "state": "Illinois"
+            },
+            {
+               "abbreviation": "PUR",
+               "prestige": "60",
+               "hexColor": "#CEB888",
+               "rival": [
+                  "IU",
+                  "ND",
+                  "ILL",
+                  "IOWA"
+               ],
+               "rivalryNames": {
+                  "IU": "Battle for the Old Oaken Bucket",
+                  "ILL": "Battle for the Purdue Cannon",
+                  "ND": "Battle for the Shillelagh Trophy"
+               },
+               "name": "Purdue",
+               "state": "Indiana"
+            }
+         ],
+         "confFullName": "Big Ten",
+         "confPrestige": "90",
+         "confName": "B1G"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "CLEM",
+               "prestige": "80",
+               "hexColor": "#F56600",
+               "rival": [
+                  "SC",
+                  "FSU",
+                  "GT",
+                  "NCST",
+                  "BC",
+                  "ALA",
+                  "AUB",
+                  "UGA"
+               ],
+               "rivalryNames": {
+                  "BC": "Battle for the Leather Helmet",
+                  "NCST": "Textile Bowl",
+                  "SC": "Battle of the Palmetto State",
+                  "FSU": "Bowden Bowl"
+               },
+               "name": "Clemson",
+               "state": "South Carolina"
+            },
+            {
+               "abbreviation": "MIA",
+               "prestige": "75",
+               "hexColor": "#005030",
+               "rival": [
+                  "FSU",
+                  "FLA",
+                  "NEB",
+                  "VT",
+                  "BC",
+                  "ND"
+               ],
+               "rivalryNames": {
+                  "FLA": "Seminole War Canoe",
+                  "FSU": "Florida Cup",
+                  "ND": "Catholics vs Convicts"
+               },
+               "name": "Miami",
+               "state": "Florida"
+            },
+            {
+               "abbreviation": "UNC",
+               "prestige": "60",
+               "hexColor": "#7BAFD4",
+               "rival": [
+                  "NCST",
+                  "DUKE",
+                  "SC",
+                  "UVA",
+                  "WAKE"
+               ],
+               "rivalryNames": {
+                  "DUKE": "Battle for the Victory Bell",
+                  "UVA": "The South's Oldest Rivalry",
+                  "SC": "Battle for the Carolinas",
+                  "NCST": "Battle of Tobacco Road",
+                  "WAKE": "Battle of Tobacco Road"
+               },
+               "name": "North Carolina",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "FSU",
+               "prestige": "75",
+               "hexColor": "#782F40",
+               "rival": [
+                  "MIA",
+                  "FLA",
+                  "CLEM",
+                  "UVA"
+               ],
+               "rivalryNames": {
+                  "FLA": "Sunshine Showdown",
+                  "MIA": "Florida Cup",
+                  "UVA": "Battle for the Jefferson-Eppes Trophy",
+                  "CLEM": "Bowden Bowl"
+               },
+               "name": "Florida State",
+               "state": "Florida"
+            },
+            {
+               "abbreviation": "SC",
+               "prestige": "40",
+               "hexColor": "#73000A",
+               "rival": [
+                  "CLEM",
+                  "UNC",
+                  "NCST",
+                  "UGA",
+                  "GT",
+                  "TAMU"
+               ],
+               "rivalryNames": {
+                  "CLEM": "Battle of the Palmetto State",
+                  "UNC": "Battle for the Carolinas",
+                  "TAMU": "Battle for the James Bonham Trophy"
+               },
+               "name": "South Carolina",
+               "state": "South Carolina"
+            },
+            {
+               "abbreviation": "NCST",
+               "prestige": "40",
+               "hexColor": "#CC0000",
+               "rival": [
+                  "UNC",
+                  "CLEM",
+                  "SC",
+                  "WAKE",
+                  "CLEM",
+                  "DUKE",
+                  "ECU"
+               ],
+               "rivalryNames": {
+                  "CLEM": "Textile Bowl",
+                  "DUKE": "Battle of Tobacco Road",
+                  "UNC": "Battle of Tobacco Road",
+                  "WAKE": "Battle of Tobacco Road",
+                  "ECU": "Battle for the Victory Barrel"
+               },
+               "name": "NC State",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "UMD",
+               "prestige": "50",
+               "hexColor": "#E61836",
+               "rival": [
+                  "WAKE",
+                  "UVA",
+                  "NAVY",
+                  "PSU",
+                  "WVU",
+                  "DUKE"
+               ],
+               "rivalryNames": {
+                  "NAVY": "Crab Bowl Classic"
+               },
+               "name": "Maryland",
+               "state": "Maryland"
+            },
+            {
+               "abbreviation": "GT",
+               "prestige": "65",
+               "hexColor": "#003057",
+               "rival": [
+                  "VT",
+                  "CLEM",
+                  "SC",
+                  "AUB",
+                  "VAN",
+                  "UGA"
+               ],
+               "rivalryNames": {
+                  "UGA": "Clean, Old-Fashioned Hate",
+                  "VT": "Battle of the Techs",
+                  "VAN": "Battle for the Gold Cowbell"
+               },
+               "name": "Georgia Tech",
+               "state": "Georgia"
+            },
+            {
+               "abbreviation": "DUKE",
+               "prestige": "45",
+               "hexColor": "#003087",
+               "rival": [
+                  "TEM",
+                  "UNC",
+                  "WAKE",
+                  "NCST",
+                  "UMD"
+               ],
+               "rivalryNames": {
+                  "UNC": "Battle for the Victory Bell",
+                  "NCST": "Battle of Tobacco Road",
+                  "WAKE": "Battle of Tobacco Road"
+               },
+               "name": "Duke",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "WAKE",
+               "prestige": "35",
+               "hexColor": "#D1B787",
+               "rival": [
+                  "UMD",
+                  "DUKE",
+                  "UNC",
+                  "NCST"
+               ],
+               "rivalryNames": {
+                  "DUKE": "Battle of Tobacco Road",
+                  "UNC": "Battle of Tobacco Road",
+                  "NCST": "Battle of Tobacco Road"
+               },
+               "name": "Wake Forest",
+               "state": "North Carolina"
+            }
+         ],
+         "confFullName": "ACC",
+         "confPrestige": "90",
+         "confName": "ACC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "OU",
+               "prestige": "95",
+               "hexColor": "#9D2235",
+               "rival": [
+                  "OKST",
+                  "NEB",
+                  "TEX",
+                  "MIZ",
+                  "TLSA",
+                  "KU"
+               ],
+               "rivalryNames": {
+                  "TEX": "Red River Shootout",
+                  "OKST": "Bedlam Game",
+                  "MIZ": "Battle for the Tiger-Sooner Pipe",
+                  "TLSA": "Battle of Oklahoma Turnpike Classic"
+               },
+               "name": "Oklahoma",
+               "state": "Oklahoma"
+            },
+            {
+               "abbreviation": "ISU",
+               "prestige": "40",
+               "hexColor": "#C8102E",
+               "rival": [
+                  "MIZ",
+                  "IOWA",
+                  "KSU",
+                  "NEB",
+                  "WVU"
+               ],
+               "rivalryNames": {
+                  "IOWA": "Battle for the Cy-Hawk Trophy",
+                  "KSU": "Farmageddon",
+                  "MIZ": "Battle for the Telephone Trophy",
+                  "WVU": "Riot Bowl"
+               },
+               "name": "Iowa State",
+               "state": "Iowa"
+            },
+            {
+               "abbreviation": "NEB",
+               "prestige": "95",
+               "hexColor": "#D91E32",
+               "rival": [
+                  "COLO",
+                  "MIA",
+                  "IOWA",
+                  "KU",
+                  "OU",
+                  "KSU",
+                  "ISU",
+                  "MIZ",
+                  "BYU",
+                  "WIS",
+                  "MINN"
+               ],
+               "rivalryNames": {
+                  "IOWA": "The Heroes Game",
+                  "MIZ": "Battle for the Missouri-Nebraska Bell",
+                  "COLO": "Nebraska-Colorado Classic",
+                  "WIS": "Battle for the Freedom Trophy",
+                  "MINN": "Battle for the $5 Bits of Broken Chair Trophy"
+               },
+               "name": "Nebraska",
+               "state": "Nebraska"
+            },
+            {
+               "abbreviation": "OKST",
+               "prestige": "50",
+               "hexColor": "#fe5c00",
+               "rival": [
+                  "OU",
+                  "TTU",
+                  "TLSA",
+                  "SMU"
+               ],
+               "rivalryNames": {
+                  "OU": "Bedlam Game",
+                  "TLSA": "Battle of Oklahoma Turnpike Classic"
+               },
+               "name": "Oklahoma State",
+               "state": "Oklahoma"
+            },
+            {
+               "abbreviation": "KSU",
+               "prestige": "50",
+               "hexColor": "#512888",
+               "rival": [
+                  "KU",
+                  "NEB",
+                  "ISU"
+               ],
+               "rivalryNames": {
+                  "ISU": "Farmageddon",
+                  "KU": "Sunflower Showdown"
+               },
+               "name": "Kansas State",
+               "state": "Kansas"
+            },
+            {
+               "abbreviation": "MIZ",
+               "prestige": "50",
+               "hexColor": "#F8B61B",
+               "rival": [
+                  "ISU",
+                  "KU",
+                  "NEBB",
+                  "ARK",
+                  "ILL",
+                  "TAMU",
+                  "OU"
+               ],
+               "rivalryNames": {
+                  "ILL": "The Arch Rivalry",
+                  "ISU": "Battle for the Telephone Trophy",
+                  "NEB": "Battle for the Missouri-Nebraska Bell",
+                  "KU": "Border Showdown",
+                  "ARK": "Battle Line Trophy",
+                  "OU": "Battle for the Tiger-Sooner Pipe"
+               },
+               "name": "Missouri",
+               "state": "Missouri"
+            },
+            {
+               "abbreviation": "COLO",
+               "prestige": "65",
+               "hexColor": "#CFB87C",
+               "rival": [
+                  "NEB",
+                  "CSU",
+                  "UTAH"
+               ],
+               "rivalryNames": {
+                  "NEB": "Nebraska-Colorado Classic",
+                  "CSU": "Rocky Mountain Showdown",
+                  "UTAH": "Rumble in the Rockies"
+               },
+               "name": "Colorado",
+               "state": "Colorado"
+            },
+            {
+               "abbreviation": "BYU",
+               "prestige": "60",
+               "hexColor": "#002E5D",
+               "rival": [
+                  "UTAH",
+                  "USU",
+                  "HAW",
+                  "BSU",
+                  "WYO",
+                  "NEB",
+                  "SDSU"
+               ],
+               "rivalryNames": {
+                  "UTAH": "The Holy War",
+                  "USU": "Battle for the Beehive Boot"
+               },
+               "name": "BYU",
+               "state": "Utah"
+            },
+            {
+               "abbreviation": "UTAH",
+               "prestige": "45",
+               "hexColor": "#CC0000",
+               "rival": [
+                  "BYU",
+                  "COLO",
+                  "USU"
+               ],
+               "rivalryNames": {
+                  "COLO": "Rumble in the Rockies",
+                  "BYU": "The Holy War",
+                  "USU": "Battle of the Brothers"
+               },
+               "name": "Utah",
+               "state": "Utah"
+            },
+            {
+               "abbreviation": "KU",
+               "prestige": "35",
+               "hexColor": "#0051BA",
+               "rival": [
+                  "KSU",
+                  "NEB",
+                  "MIZ",
+                  "OU"
+               ],
+               "rivalryNames": {
+                  "KSU": "Sunflower Showdown",
+                  "MIZ": "Border Showdown"
+               },
+               "name": "Kansas",
+               "state": "Kansas"
+            }
+         ],
+         "confFullName": "Big 12",
+         "confPrestige": "80",
+         "confName": "XII"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "ORE",
+               "prestige": "75",
+               "hexColor": "#047840",
+               "rival": [
+                  "WASH",
+                  "ORST"
+               ],
+               "rivalryNames": {
+                  "ORST": "Civil War",
+                  "WASH": "Border War"
+               },
+               "name": "Oregon",
+               "state": "Oregon"
+            },
+            {
+               "abbreviation": "USC",
+               "prestige": "95",
+               "hexColor": "#9D2236",
+               "rival": [
+                  "UCLA",
+                  "PSU",
+                  "ND",
+                  "STAN",
+                  "CAL",
+                  "SJSU"
+               ],
+               "rivalryNames": {
+                  "ND": "Battle for the Jeweled Shillelagh",
+                  "UCLA": "Battle for the Victory Bell"
+               },
+               "name": "USC",
+               "state": "California"
+            },
+            {
+               "abbreviation": "WASH",
+               "prestige": "80",
+               "hexColor": "#330072",
+               "rival": [
+                  "ORE",
+                  "WSU"
+               ],
+               "rivalryNames": {
+                  "WSU": "Apple Cup",
+                  "ORE": "Border War"
+               },
+               "name": "Washington",
+               "state": "Washington"
+            },
+            {
+               "abbreviation": "STAN",
+               "prestige": "65",
+               "hexColor": "#8C1515",
+               "rival": [
+                  "CAL",
+                  "PSU",
+                  "ND",
+                  "USC",
+                  "SJSU"
+               ],
+               "rivalryNames": {
+                  "ND": "Battle for the Legends Trophy",
+                  "CAL": "The Big Game",
+                  "SJSU": "Bill Walsh Legacy Game"
+               },
+               "name": "Stanford",
+               "state": "California"
+            },
+            {
+               "abbreviation": "ASU",
+               "prestige": "40",
+               "hexColor": "#8C1D40",
+               "rival": "ARIZ",
+               "rivalryNames": {
+                  "ARIZ": "Duel in the Desert"
+               },
+               "name": "Arizona State",
+               "state": "Arizona"
+            },
+            {
+               "abbreviation": "CAL",
+               "prestige": "40",
+               "hexColor": "041E42",
+               "rival": [
+                  "STAN",
+                  "UCLA",
+                  "USC"
+               ],
+               "rivalryNames": {
+                  "STAN": "The Big Game"
+               },
+               "name": "California",
+               "state": "California"
+            },
+            {
+               "abbreviation": "ORST",
+               "prestige": "40",
+               "hexColor": "#DC4405",
+               "rival": [
+                  "WSU",
+                  "ORE"
+               ],
+               "rivalryNames": {
+                  "ORE": "Civil War"
+               },
+               "name": "Oregon State",
+               "state": "Oregon"
+            },
+            {
+               "abbreviation": "WSU",
+               "prestige": "35",
+               "hexColor": "#981E32",
+               "rival": [
+                  "ORST",
+                  "WASH"
+               ],
+               "rivalryNames": {
+                  "WASH": "Apple Cup"
+               },
+               "name": "Washington State",
+               "state": "Washington"
+            },
+            {
+               "abbreviation": "UCLA",
+               "prestige": "80",
+               "hexColor": "#2D68C4",
+               "rival": [
+                  "USC",
+                  "CAL"
+               ],
+               "rivalryNames": {
+                  "USC": "Battle for the Victory Bell"
+               },
+               "name": "UCLA",
+               "state": "California"
+            },
+            {
+               "abbreviation": "ARIZ",
+               "prestige": "30",
+               "hexColor": "#041E42",
+               "rival": "ASU",
+               "rivalryNames": {
+                  "ASU": "Duel in the Desert"
+               },
+               "name": "Arizona",
+               "state": "Arizona"
+            }
+         ],
+         "confFullName": "Pac 12",
+         "confPrestige": "85",
+         "confName": "P12"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "TAMU",
+               "prestige": "75",
+               "hexColor": "#500000",
+               "rival": [
+                  "TEX",
+                  "BAY",
+                  "TCU",
+                  "TTU",
+                  "ARK",
+                  "MIZ",
+                  "SC"
+               ],
+               "rivalryNames": {
+                  "TEX": "Lone Star Showdown",
+                  "ARK": "Southwest Classic",
+                  "BAY": "Battle of the Brazos",
+                  "SC": "Battle for the James Bonham Trophy"
+               },
+               "name": "Texas A&M",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "TEX",
+               "prestige": "95",
+               "hexColor": "#BF5700",
+               "rival": [
+                  "TAMU",
+                  "OU",
+                  "NEB",
+                  "RICE",
+                  "ARK",
+                  "TEX",
+                  "TTU",
+                  "TCU"
+               ],
+               "rivalryNames": {
+                  "TAMU": "Lone Star Showdown",
+                  "OU": "Red River Shootout",
+                  "TTU": "Battle for the Chancellor's Spurs"
+               },
+               "name": "Texas",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "BAY",
+               "prestige": "45",
+               "hexColor": "#154734",
+               "rival": [
+                  "RICE",
+                  "TTU",
+                  "TAMU",
+                  "TEX",
+                  "TCU"
+               ],
+               "rivalryNames": {
+                  "TAMU": "Battle of the Brazos",
+                  "TCU": "Holy War"
+               },
+               "name": "Baylor",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "TCU",
+               "prestige": "60",
+               "hexColor": "#4D1979",
+               "rival": [
+                  "TTU",
+                  "BAY",
+                  "TAMU",
+                  "TEX",
+                  "SMU"
+               ],
+               "rivalryNames": {
+                  "BAY": "Holy War",
+                  "SMU": "Battle for the Iron Skillet",
+                  "TTU": "Battle for the Saddle Trophy"
+               },
+               "name": "TCU",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "TTU",
+               "prestige": "40",
+               "hexColor": "#CC0000",
+               "rival": [
+                  "TCU",
+                  "OKST",
+                  "TLSA",
+                  "BAY",
+                  "TAMU",
+                  "TEX"
+               ],
+               "rivalryNames": {
+                  "TEX": "Battle for the Chancellor's Spurs",
+                  "TCU": "Battle for the Saddle Trophy"
+               },
+               "name": "Texas Tech",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "ARK",
+               "prestige": "75",
+               "hexColor": "#A41F35",
+               "rival": [
+                  "TLSA",
+                  "LSU",
+                  "MIZ",
+                  "TAMU",
+                  "TEX",
+                  "MISS"
+               ],
+               "rivalryNames": {
+                  "LSU": "Battle for the Golden Boot",
+                  "ARK": "Southwest Classic",
+                  "MIZ": "Battle Line Trophy"
+               },
+               "name": "Arkansas",
+               "state": "Arkansas"
+            },
+            {
+               "abbreviation": "SMU",
+               "prestige": "60",
+               "hexColor": "#354CA0",
+               "rival": [
+                  "HOU",
+                  "TCU",
+                  "RICE",
+                  "OKST",
+                  "NAVY",
+                  "UNT"
+               ],
+               "rivalryNames": {
+                  "TCU": "Battle for the Iron Skillet",
+                  "RICE": "Battle for the Mayor's Cup",
+                  "NAVY": "Battle for the Gansz Trophy",
+                  "UNT": "Safeway Bowl"
+               },
+               "name": "SMU",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "TLSA",
+               "prestige": "25",
+               "hexColor": "#003695",
+               "rival": [
+                  "ARK",
+                  "HOU",
+                  "RICE",
+                  "OKST",
+                  "OU"
+               ],
+               "rivalryNames": {
+                  "RICE": "Battle for the Williams Trophy",
+                  "OU": "Battle of Oklahoma Turnpike Classic",
+                  "OKST": "Battle of Oklahoma Turnpike Classic"
+               },
+               "name": "Tulsa",
+               "state": "Oklahoma"
+            },
+            {
+               "abbreviation": "RICE",
+               "prestige": "35",
+               "hexColor": "#00205B",
+               "rival": [
+                  "BAY",
+                  "SMU",
+                  "HOU",
+                  "TEX",
+                  "TLSA"
+               ],
+               "rivalryNames": {
+                  "SMU": "Battle for the Mayor's Cup",
+                  "TLSA": "Battle for the Williams Trophy",
+                  "HOU": "Battle for the Bayou Bucket"
+               },
+               "name": "Rice",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "HOU",
+               "prestige": "45",
+               "hexColor": "#C8102E",
+               "rival": [
+                  "SMU",
+                  "TLSA",
+                  "RICE"
+               ],
+               "rivalryNames": {
+                  "RICE": "Battle for the Bayou Bucket"
+               },
+               "name": "Houston",
+               "state": "Texas"
+            }
+         ],
+         "confFullName": "Southwest",
+         "confPrestige": "80",
+         "confName": "SWC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "UVA",
+               "prestige": "35",
+               "hexColor": "#232D4B",
+               "rival": [
+                  "WVU",
+                  "FSU",
+                  "UNC",
+                  "VT",
+                  "UMD"
+               ],
+               "rivalryNames": {
+                  "UNC": "The South's Oldest Rivalry",
+                  "FSU": "Battle for the Jefferson-Eppes Trophy",
+                  "VT": "Battle for the Commonwealth Trophy"
+               },
+               "name": "Virginia",
+               "state": "Virginia"
+            },
+            {
+               "abbreviation": "WVU",
+               "prestige": "50",
+               "hexColor": "#002855",
+               "rival": [
+                  "UVA",
+                  "VT",
+                  "UMD",
+                  "SYRA",
+                  "PITT",
+                  "MRSH",
+                  "LOU",
+                  "ISU"
+               ],
+               "rivalryNames": {
+                  "MRSH": "Friends of Coal Bowl",
+                  "SYRA": "Battle for the Schwartzwalder Trophy",
+                  "VT": "Battle for the Black Diamond Trophy",
+                  "PITT": "Backyard Brawl",
+                  "ISU": "Riot Bowl"
+               },
+               "name": "West Virginia",
+               "state": "West Virginia"
+            },
+            {
+               "abbreviation": "PITT",
+               "prestige": "70",
+               "hexColor": "#003594",
+               "rival": [
+                  "BC",
+                  "ND",
+                  "SYRA",
+                  "PSU",
+                  "WVU",
+                  "CIN",
+                  "TEM"
+               ],
+               "rivalryNames": {
+                  "CIN": "River City Rivalry",
+                  "WVU": "Backyard Brawl",
+                  "PSU": "Keystone Classic"
+               },
+               "name": "Pittsburgh",
+               "state": "Pennsylvania"
+            },
+            {
+               "abbreviation": "VT",
+               "prestige": "60",
+               "hexColor": "#630031",
+               "rival": [
+                  "GT",
+                  "MIA",
+                  "UVA",
+                  "WVU",
+                  "BC"
+               ],
+               "rivalryNames": {
+                  "UVA": "Battle for the Commonwealth Trophy",
+                  "WVU": "Battle for the Black Diamond Trophy",
+                  "GT": "Battle of the Techs"
+               },
+               "name": "Virginia Tech",
+               "state": "Virginia"
+            },
+            {
+               "abbreviation": "SYRA",
+               "prestige": "50",
+               "hexColor": "#F76900",
+               "rival": [
+                  "RUTG",
+                  "BC",
+                  "PITT",
+                  "WVU",
+                  "BUFF",
+                  "PSU"
+               ],
+               "rivalryNames": {
+                  "WVU": "Battle for the Schwartzwalder Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "40",
+                  "ratOff": "57",
+                  "cumulativePrestige": "0",
+                  "ratDef": "73",
+                  "homeState": "South Carolina",
+                  "ratPot": "77",
+                  "hometown": "Meriden",
+                  "ratTalent": "66",
+                  "baselinePrestige": "60",
+                  "name": "Dino Babers",
+                  "contractYear": "1"
+               },
+               "name": "Syracuse",
+               "state": "New York"
+            },
+            {
+               "abbreviation": "BC",
+               "prestige": "60",
+               "hexColor": "#8A2332",
+               "rival": [
+                  "PITT",
+                  "CLEM",
+                  "ND",
+                  "VT",
+                  "SYRA",
+                  "MIA"
+               ],
+               "rivalryNames": {
+                  "CLEM": "Battle for the Leather Helmet",
+                  "ND": "Holy War"
+               },
+               "name": "Boston College",
+               "state": "Massachusetts"
+            },
+            {
+               "abbreviation": "RUTG",
+               "prestige": "35",
+               "hexColor": "#CC0033",
+               "rival": [
+                  "SYRA",
+                  "ARMY",
+                  "NAVY"
+               ],
+               "rivalryNames": {},
+               "name": "Rutgers",
+               "state": "New Jersey"
+            },
+            {
+               "abbreviation": "ND",
+               "prestige": "95",
+               "hexColor": "#0C2340",
+               "rival": [
+                  "PSU",
+                  "USC",
+                  "STAN",
+                  "OSU",
+                  "MICH",
+                  "PUR",
+                  "IOWA",
+                  "MSU",
+                  "PITT",
+                  "BC",
+                  "NAVY",
+                  "ARMY",
+                  "NW",
+                  "MIA"
+               ],
+               "rivalryNames": {
+                  "MSU": "Battle for the Megaphone",
+                  "PUR": "Battle for the Shillelagh Trophy",
+                  "BC": "Holy War",
+                  "STAN": "Battle for the Legends Trophy",
+                  "USC": "Battle for the Jeweled Shillelagh",
+                  "NAVY": "Rip Miller Trophy Game",
+                  "NW": "Battle for the Shillelagh",
+                  "MIA": "Catholics vs Convicts"
+               },
+               "name": "Notre Dame",
+               "state": "Indiana"
+            },
+            {
+               "abbreviation": "PSU",
+               "prestige": "85",
+               "hexColor": "#041E42",
+               "rival": [
+                  "ND",
+                  "USC",
+                  "STAN",
+                  "OSU",
+                  "MINN",
+                  "MSU",
+                  "TEM",
+                  "UMD",
+                  "PITT",
+                  "SYRA"
+               ],
+               "rivalryNames": {
+                  "MSU": "Battle for the Land Grant Trophy",
+                  "MINN": "Battle for the Governor's Victory Bell"
+               },
+               "name": "Penn State",
+               "state": "Pennsylvania"
+            },
+            {
+               "abbreviation": "TEM",
+               "prestige": "30",
+               "hexColor": "#A31F36",
+               "rival": [
+                  "DUKE",
+                  "PSU",
+                  "PITT",
+                  "BUFF"
+               ],
+               "rivalryNames": {},
+               "name": "Temple",
+               "state": "Pennsylvania"
+            }
+         ],
+         "confFullName": "Big East",
+         "confPrestige": "70",
+         "confName": "BEC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "SJSU",
+               "prestige": "25",
+               "hexColor": "#005298",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "44",
+                  "cumulativePrestige": "0",
+                  "homeState": "Utah",
+                  "ratPot": "85",
+                  "hometown": "Orem",
+                  "ratTalent": "85",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "75",
+                  "name": "Kevin McGiven",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "51",
+                  "cumulativePrestige": "0",
+                  "homeState": "Maryland",
+                  "ratPot": "59",
+                  "hometown": "Baltimore",
+                  "ratTalent": "80",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "75",
+                  "name": "Derrick Odum",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "SDSU",
+                  "FRES",
+                  "STAN",
+                  "USC",
+                  "HAW",
+                  "NEV"
+               ],
+               "rivalryNames": {
+                  "SDSU": "Battle for the Oil Can",
+                  "FRES": "Battle for the Oil Can",
+                  "STAN": "Bill Walsh Legacy Game",
+                  "HAW": "Battle for the Dick Tomey Legacy Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "7",
+                  "startYear": "2021",
+                  "age": "48",
+                  "ratOff": "85",
+                  "cumulativePrestige": "10",
+                  "ratDef": "70",
+                  "homeState": "California",
+                  "ratPot": "92",
+                  "hometown": "San Jose",
+                  "ratTalent": "85",
+                  "baselinePrestige": "50",
+                  "name": "Brent Brennan",
+                  "contractYear": "2"
+               },
+               "name": "San Jose State",
+               "state": "California"
+            },
+            {
+               "abbreviation": "SDSU",
+               "prestige": "25",
+               "hexColor": "#C41230",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "47",
+                  "cumulativePrestige": "0",
+                  "homeState": "Illinois",
+                  "ratPot": "80",
+                  "hometown": "Palatine",
+                  "ratTalent": "75",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "75",
+                  "name": "Jeff Hecklinski",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Indiana",
+                  "ratPot": "70",
+                  "hometown": "Portage",
+                  "ratTalent": "70",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "70",
+                  "name": "Kurt Mattix",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "SJSU",
+                  "FRES",
+                  "BYU",
+                  "HAW"
+               ],
+               "rivalryNames": {
+                  "SJSU": "Battle for the Oil Can",
+                  "FRES": "Battle for the Oil Can"
+               },
+               "headCoach": {
+                  "contractLength": "5",
+                  "startYear": "2021",
+                  "age": "62",
+                  "ratOff": "85",
+                  "cumulativePrestige": "10",
+                  "ratDef": "65",
+                  "homeState": "Ohio",
+                  "ratPot": "50",
+                  "hometown": "Dayton",
+                  "ratTalent": "85",
+                  "baselinePrestige": "60",
+                  "name": "Brady Hoke",
+                  "contractYear": "1"
+               },
+               "name": "San Diego State",
+               "state": "California"
+            },
+            {
+               "abbreviation": "BSU",
+               "prestige": "35",
+               "hexColor": "#00329F",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wisconsin",
+                  "ratPot": "53",
+                  "hometown": "Edgewood",
+                  "ratTalent": "94",
+                  "baselinePrestige": "65",
+                  "coachingAbility": "80",
+                  "name": "Eric Kiesau",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kansas",
+                  "ratPot": "55",
+                  "hometown": "Byram",
+                  "ratTalent": "62",
+                  "baselinePrestige": "65",
+                  "coachingAbility": "75",
+                  "name": "Jeff Schmedding",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "WYO",
+                  "AFA",
+                  "BYU",
+                  "FRES",
+                  "NEV",
+                  "HAW"
+               ],
+               "rivalryNames": {
+                  "FRES": "Battle for the Milk Can"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "39",
+                  "ratOff": "75",
+                  "cumulativePrestige": "0",
+                  "ratDef": "75",
+                  "homeState": "Ohio",
+                  "ratPot": "89",
+                  "hometown": "Corona",
+                  "ratTalent": "58",
+                  "baselinePrestige": "65",
+                  "name": "Andy Avalos",
+                  "contractYear": "1"
+               },
+               "name": "Boise State",
+               "state": "Idaho"
+            },
+            {
+               "abbreviation": "WYO",
+               "prestige": "25",
+               "hexColor": "#492F24",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "39",
+                  "cumulativePrestige": "0",
+                  "homeState": "Minnesota",
+                  "ratPot": "62",
+                  "hometown": "Estill Springs",
+                  "ratTalent": "83",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "74",
+                  "name": "Brent Vigen",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oklahoma",
+                  "ratPot": "95",
+                  "hometown": "West Allis",
+                  "ratTalent": "65",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "59",
+                  "name": "Jay Sawvel",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "BSU",
+                  "HAW",
+                  "USU",
+                  "BYU",
+                  "CSU"
+               ],
+               "rivalryNames": {
+                  "CSU": "Border War",
+                  "HAW": "Paniolo Trophy",
+                  "USU": "Bridger's Battle"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "53",
+                  "ratOff": "60",
+                  "cumulativePrestige": "0",
+                  "ratDef": "56",
+                  "homeState": "California",
+                  "ratPot": "84",
+                  "hometown": "Sutherland",
+                  "ratTalent": "76",
+                  "baselinePrestige": "50",
+                  "name": "Craig Bohl",
+                  "contractYear": "1"
+               },
+               "name": "Wyoming",
+               "state": "Wyoming"
+            },
+            {
+               "abbreviation": "AFA",
+               "prestige": "35",
+               "hexColor": "#00308F",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "69",
+                  "hometown": "West Wendover",
+                  "ratTalent": "67",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "68",
+                  "name": "Mike Thiessen",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "58",
+                  "cumulativePrestige": "0",
+                  "homeState": "Washington DC",
+                  "ratPot": "67",
+                  "hometown": "Bluff",
+                  "ratTalent": "71",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "64",
+                  "name": "John Rudzinski",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "CSU",
+                  "ARMY",
+                  "NAVY",
+                  "BSU",
+                  "HAW"
+               ],
+               "rivalryNames": {
+                  "ARMY": "Battle for the Commander-In-Chief's Trophy",
+                  "NAVY": "Battle for the Commander-In-Chief's Trophy",
+                  "CSU": "Battle for the Ram-Falcon Trophy",
+                  "HAW": "Battle for the Kuter Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "55",
+                  "ratOff": "60",
+                  "cumulativePrestige": "0",
+                  "ratDef": "59",
+                  "homeState": "California",
+                  "ratPot": "78",
+                  "hometown": "Georgetown",
+                  "ratTalent": "68",
+                  "baselinePrestige": "50",
+                  "name": "Troy Calhoun",
+                  "contractYear": "1"
+               },
+               "name": "Air Force",
+               "state": "Colorado"
+            },
+            {
+               "abbreviation": "USU",
+               "prestige": "25",
+               "hexColor": "#0F2439",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wisconsin",
+                  "ratPot": "90",
+                  "hometown": "Bel Air South",
+                  "ratTalent": "77",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "59",
+                  "name": "Bodie Reeder",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "36",
+                  "cumulativePrestige": "0",
+                  "homeState": "Tennessee",
+                  "ratPot": "64",
+                  "hometown": "North Creek",
+                  "ratTalent": "71",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "66",
+                  "name": "Frank Maile",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "NEV",
+                  "BYU",
+                  "UTAH",
+                  "WYO",
+                  "CSU"
+               ],
+               "rivalryNames": {
+                  "BYU": "Battle for the Beehive Boot",
+                  "UTAH": "Battle of the Brothers",
+                  "WYO": "Bridger's Battle"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "52",
+                  "ratOff": "59",
+                  "cumulativePrestige": "0",
+                  "ratDef": "52",
+                  "homeState": "Arkansas",
+                  "ratPot": "76",
+                  "hometown": "Jonesboro",
+                  "ratTalent": "62",
+                  "baselinePrestige": "50",
+                  "name": "Blake Anderson",
+                  "contractYear": "1"
+               },
+               "name": "Utah State",
+               "state": "Utah"
+            },
+            {
+               "abbreviation": "CSU",
+               "prestige": "25",
+               "hexColor": "#1E4D2B",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Louisiana",
+                  "ratPot": "86",
+                  "hometown": "Marfa",
+                  "ratTalent": "72",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "65",
+                  "name": "Joey Lynch",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "Alaska",
+                  "ratPot": "83",
+                  "hometown": "Bryantville",
+                  "ratTalent": "72",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "62",
+                  "name": "Chuck Heater",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "AFA",
+                  "COLO",
+                  "USU",
+                  "WYO"
+               ],
+               "rivalryNames": {
+                  "COLO": "Rocky Mountain Showdown",
+                  "WYO": "Border War",
+                  "AFA": "Battle for the Ram-Falcon Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "58",
+                  "ratOff": "80",
+                  "cumulativePrestige": "0",
+                  "ratDef": "75",
+                  "homeState": "Wisconsin",
+                  "ratPot": "75",
+                  "hometown": "Madison",
+                  "ratTalent": "75",
+                  "baselinePrestige": "50",
+                  "name": "Jay Norvell",
+                  "contractYear": "1"
+               },
+               "name": "Colorado State",
+               "state": "Colorado"
+            },
+            {
+               "abbreviation": "FRES",
+               "prestige": "25",
+               "hexColor": "#B1102B",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "32",
+                  "cumulativePrestige": "0",
+                  "homeState": "Iowa",
+                  "ratPot": "54",
+                  "hometown": "Wakefield",
+                  "ratTalent": "89",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "65",
+                  "name": "Ryan Grubb",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "43",
+                  "cumulativePrestige": "0",
+                  "homeState": "Nevada",
+                  "ratPot": "52",
+                  "hometown": "Grants Pass",
+                  "ratTalent": "52",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "72",
+                  "name": "William Inge",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "HAW",
+                  "NEV",
+                  "BSU",
+                  "SJSU",
+                  "SDSU"
+               ],
+               "rivalryNames": {
+                  "BSU": "Battle for the Milk Can",
+                  "HAW": "Battle for the Golden Screwdriver",
+                  "SJSU": "Battle for the Oil Can",
+                  "SDSU": "Battle for the Oil Can"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "60",
+                  "ratOff": "70",
+                  "cumulativePrestige": "0",
+                  "ratDef": "70",
+                  "homeState": "California",
+                  "ratPot": "70",
+                  "hometown": "Lynnwood",
+                  "ratTalent": "70",
+                  "baselinePrestige": "50",
+                  "name": "Jeff Tedford",
+                  "contractYear": "1"
+               },
+               "name": "Fresno State",
+               "state": "California"
+            },
+            {
+               "abbreviation": "NEV",
+               "prestige": "25",
+               "hexColor": "#003366",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "40",
+                  "cumulativePrestige": "0",
+                  "homeState": "North Carolina",
+                  "ratPot": "69",
+                  "hometown": "Aspen",
+                  "ratTalent": "54",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "72",
+                  "name": "Matt Mumme",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "59",
+                  "cumulativePrestige": "0",
+                  "homeState": "Rhode Island",
+                  "ratPot": "77",
+                  "hometown": "Northwest Washington",
+                  "ratTalent": "57",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "57",
+                  "name": "Brian Ward",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "USU",
+                  "FRES",
+                  "BSU",
+                  "SJSU"
+               ],
+               "rivalryNames": {},
+               "headCoach": {
+                  "contractLength": "5",
+                  "startYear": "2021",
+                  "age": "57",
+                  "ratOff": "75",
+                  "cumulativePrestige": "0",
+                  "ratDef": "77",
+                  "homeState": "Illinois",
+                  "ratPot": "65",
+                  "hometown": "Virginia",
+                  "ratTalent": "72",
+                  "baselinePrestige": "50",
+                  "name": "Ken Wilson",
+                  "contractYear": "1"
+               },
+               "name": "Nevada",
+               "state": "Nevada"
+            },
+            {
+               "abbreviation": "HAW",
+               "prestige": "25",
+               "hexColor": "#024731",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "55",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wisconsin",
+                  "ratPot": "94",
+                  "hometown": "Eielson AFB",
+                  "ratTalent": "71",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "66",
+                  "name": "GJ Kinne",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Colorado",
+                  "ratPot": "93",
+                  "hometown": "Toluca Lake",
+                  "ratTalent": "77",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "71",
+                  "name": "Victor Cruz",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "FRES",
+                  "BYU",
+                  "WYO",
+                  "BSU",
+                  "AFA",
+                  "SJSU",
+                  "SDSU"
+               ],
+               "rivalryNames": {
+                  "WYO": "Paniolo Trophy",
+                  "FRES": "Battle for the Golden Screwdriver",
+                  "AFA": "Battle for the Kuter Trophy",
+                  "SJSU": "Battle for the Dick Tomey Legacy Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "34",
+                  "ratOff": "50",
+                  "cumulativePrestige": "0",
+                  "ratDef": "50",
+                  "homeState": "Ohio",
+                  "ratPot": "50",
+                  "hometown": "Seattle",
+                  "ratTalent": "50",
+                  "baselinePrestige": "50",
+                  "name": "Todd Graham",
+                  "contractYear": "1"
+               },
+               "name": "Hawaii",
+               "state": "Hawaii"
+            }
+         ],
+         "confFullName": "Mountain West",
+         "confPrestige": "40",
+         "confName": "MWC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "UCF",
+               "prestige": "25",
+               "hexColor": "#B49658",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "New Hampshire",
+                  "ratPot": "64",
+                  "hometown": "Packwood",
+                  "ratTalent": "71",
+                  "baselinePrestige": "70",
+                  "coachingAbility": "65",
+                  "name": "Chip Lindsey",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "32",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oregon",
+                  "ratPot": "77",
+                  "hometown": "Booneville",
+                  "ratTalent": "70",
+                  "baselinePrestige": "70",
+                  "coachingAbility": "73",
+                  "name": "Randy Shannon",
+                  "contractYear": "1"
+               },
+               "rival": "USF",
+               "rivalryNames": {
+                  "USF": "The War on I-4"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "55",
+                  "ratOff": "81",
+                  "cumulativePrestige": "0",
+                  "ratDef": "81",
+                  "homeState": "New Hampshire",
+                  "ratPot": "81",
+                  "hometown": "Athena",
+                  "ratTalent": "81",
+                  "baselinePrestige": "70",
+                  "name": "Gus Malzahn",
+                  "contractYear": "1"
+               },
+               "name": "UCF",
+               "state": "Florida"
+            },
+            {
+               "abbreviation": "CIN",
+               "prestige": "40",
+               "hexColor": "#E00122",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "41",
+                  "cumulativePrestige": "0",
+                  "homeState": "Florida",
+                  "ratPot": "83",
+                  "hometown": "Runnells",
+                  "ratTalent": "88",
+                  "baselinePrestige": "80",
+                  "coachingAbility": "86",
+                  "name": "Mike Denbrock",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "37",
+                  "cumulativePrestige": "0",
+                  "homeState": "Virginia",
+                  "ratPot": "94",
+                  "hometown": "Boca Grande",
+                  "ratTalent": "90",
+                  "baselinePrestige": "85",
+                  "coachingAbility": "85",
+                  "name": "Mike Tressel",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "MEM",
+                  "PITT",
+                  "LOU",
+                  "MIOH"
+               ],
+               "rivalryNames": {
+                  "PITT": "River City Rivalry",
+                  "LOU": "Battle for the Keg of Nails",
+                  "MIOH": "Battle for the Victory Bell"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "41",
+                  "ratOff": "90",
+                  "cumulativePrestige": "35",
+                  "ratDef": "85",
+                  "homeState": "Hawaii",
+                  "ratPot": "95",
+                  "hometown": "Fort Valley",
+                  "ratTalent": "90",
+                  "baselinePrestige": "80",
+                  "name": "Luke Fickell",
+                  "contractYear": "1"
+               },
+               "name": "Cincinnati",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "MEM",
+               "prestige": "35",
+               "hexColor": "#003087",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "51",
+                  "cumulativePrestige": "0",
+                  "homeState": "Virginia",
+                  "ratPot": "70",
+                  "hometown": "Myers Corner",
+                  "ratTalent": "57",
+                  "baselinePrestige": "65",
+                  "coachingAbility": "72",
+                  "name": "Kevin Johns",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "South Carolina",
+                  "ratPot": "55",
+                  "hometown": "Hooper",
+                  "ratTalent": "68",
+                  "baselinePrestige": "65",
+                  "coachingAbility": "74",
+                  "name": "Mike Macintyre",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "CIN",
+                  "LOU",
+                  "ARST",
+                  "MISS",
+                  "USM",
+                  "UAB"
+               ],
+               "rivalryNames": {
+                  "ARST": "Paint Bucket Bowl",
+                  "MISS": "Mid-South Rivalry",
+                  "USM": "Blue and Black Bowl"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "41",
+                  "ratOff": "65",
+                  "cumulativePrestige": "5",
+                  "ratDef": "65",
+                  "homeState": "American Samoa",
+                  "ratPot": "66",
+                  "hometown": "Perry",
+                  "ratTalent": "67",
+                  "baselinePrestige": "65",
+                  "name": "Ryan Silverfield",
+                  "contractYear": "1"
+               },
+               "name": "Memphis",
+               "state": "Tennessee"
+            },
+            {
+               "abbreviation": "ARMY",
+               "prestige": "50",
+               "hexColor": "#D4BF91",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "35",
+                  "cumulativePrestige": "0",
+                  "homeState": "Hawaii",
+                  "ratPot": "57",
+                  "hometown": "Hoschton",
+                  "ratTalent": "55",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "70",
+                  "name": "Brent Davis",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "53",
+                  "cumulativePrestige": "0",
+                  "homeState": "Tennessee",
+                  "ratPot": "62",
+                  "hometown": "South Salt Lake",
+                  "ratTalent": "86",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "66",
+                  "name": "Nate Woody",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "NAVY",
+                  "AFA",
+                  "RUTG",
+                  "ND"
+               ],
+               "rivalryNames": {
+                  "NAVY": "Battle for the Commander-In-Chief's Trophy",
+                  "AFA": "Battle for the Commander-In-Chief's Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "49",
+                  "ratOff": "62",
+                  "cumulativePrestige": "5",
+                  "ratDef": "76",
+                  "homeState": "Michigan",
+                  "ratPot": "78",
+                  "hometown": "North Troy",
+                  "ratTalent": "86",
+                  "baselinePrestige": "60",
+                  "name": "Jeff Monken",
+                  "contractYear": "1"
+               },
+               "name": "Army",
+               "state": "New York"
+            },
+            {
+               "abbreviation": "NAVY",
+               "prestige": "35",
+               "hexColor": "#00205B",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "55",
+                  "cumulativePrestige": "0",
+                  "homeState": "West Virginia",
+                  "ratPot": "52",
+                  "hometown": "Wells River",
+                  "ratTalent": "65",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "60",
+                  "name": "Ivin Jasper",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "39",
+                  "cumulativePrestige": "0",
+                  "homeState": "New York",
+                  "ratPot": "87",
+                  "hometown": "Claymont",
+                  "ratTalent": "57",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "73",
+                  "name": "Brian Newberry",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "ARMY",
+                  "UMD",
+                  "AFA",
+                  "RUTG",
+                  "ND",
+                  "SMU"
+               ],
+               "rivalryNames": {
+                  "UMD": "Crab Bowl Classic",
+                  "ARMY": "Battle for the Commander-In-Chief's Trophy",
+                  "AFA": "Battle for the Commander-In-Chief's Trophy",
+                  "ND": "Rip Miller Trophy Game",
+                  "SMU": "Battle for the Gansz Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "33",
+                  "ratOff": "72",
+                  "cumulativePrestige": "5",
+                  "ratDef": "74",
+                  "homeState": "Kentucky",
+                  "ratPot": "84",
+                  "hometown": "Hailey",
+                  "ratTalent": "74",
+                  "baselinePrestige": "60",
+                  "name": "Ken Niumatalolo",
+                  "contractYear": "1"
+               },
+               "name": "Navy",
+               "state": "Maryland"
+            },
+            {
+               "abbreviation": "LOU",
+               "prestige": "35",
+               "hexColor": "#AD0000",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "47",
+                  "cumulativePrestige": "0",
+                  "homeState": "Arizona",
+                  "ratPot": "63",
+                  "hometown": "Waikiki",
+                  "ratTalent": "93",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "73",
+                  "name": "Dwayne Ledford",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "57",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kansas",
+                  "ratPot": "78",
+                  "hometown": "Lewisburg",
+                  "ratTalent": "78",
+                  "baselinePrestige": "60",
+                  "coachingAbility": "63",
+                  "name": "Bryan Brown",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "TULN",
+                  "UK",
+                  "CIN",
+                  "MEM",
+                  "WVU",
+                  "UK"
+               ],
+               "rivalryNames": {
+                  "CIN": "Battle for the Keg of Nails",
+                  "UK": "Governor's Cup"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "40",
+                  "ratOff": "70",
+                  "cumulativePrestige": "0",
+                  "ratDef": "79",
+                  "homeState": "Nebraska",
+                  "ratPot": "94",
+                  "hometown": "Getty Square",
+                  "ratTalent": "81",
+                  "baselinePrestige": "60",
+                  "name": "Scott Satterfield",
+                  "contractYear": "1"
+               },
+               "name": "Louisville",
+               "state": "Kentucky"
+            },
+            {
+               "abbreviation": "BUFF",
+               "prestige": "25",
+               "hexColor": "#005BBB",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "51",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "80",
+                  "hometown": "Batavia",
+                  "ratTalent": "83",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "71",
+                  "name": "Andy Kotelnicki",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "37",
+                  "cumulativePrestige": "0",
+                  "homeState": "Virginia",
+                  "ratPot": "88",
+                  "hometown": "Folsom",
+                  "ratTalent": "68",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "77",
+                  "name": "Brian Borland",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "AKR",
+                  "SYRA",
+                  "TEM"
+               ],
+               "rivalryNames": {},
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "41",
+                  "ratOff": "66",
+                  "cumulativePrestige": "0",
+                  "ratDef": "63",
+                  "homeState": "Illinois",
+                  "ratPot": "75",
+                  "hometown": "Adams",
+                  "ratTalent": "69",
+                  "baselinePrestige": "50",
+                  "name": "Lance Leipold",
+                  "contractYear": "1"
+               },
+               "name": "Buffalo",
+               "state": "New York"
+            },
+            {
+               "abbreviation": "AKR",
+               "prestige": "25",
+               "hexColor": "#041E42",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "47",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "78",
+                  "hometown": "Clermont",
+                  "ratTalent": "66",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "63",
+                  "name": "Tommy Zagorski",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "West Virginia",
+                  "ratPot": "93",
+                  "hometown": "Westmore",
+                  "ratTalent": "64",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "62",
+                  "name": "Matt Feeny",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "BUFF",
+                  "KENT"
+               ],
+               "rivalryNames": {
+                  "KENT": "Battle for the Wagon Wheel"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "39",
+                  "ratOff": "62",
+                  "cumulativePrestige": "0",
+                  "ratDef": "57",
+                  "homeState": "Utah",
+                  "ratPot": "50",
+                  "hometown": "Deltona",
+                  "ratTalent": "85",
+                  "baselinePrestige": "50",
+                  "name": "Tom Arth",
+                  "contractYear": "1"
+               },
+               "name": "Akron",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "TULN",
+               "prestige": "35",
+               "hexColor": "#006548",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "Indiana",
+                  "ratPot": "56",
+                  "hometown": "Edgemoor",
+                  "ratTalent": "93",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "76",
+                  "name": "Will Hall",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "36",
+                  "cumulativePrestige": "0",
+                  "homeState": "Rhode Island",
+                  "ratPot": "81",
+                  "hometown": "Spring Branch",
+                  "ratTalent": "62",
+                  "baselinePrestige": "50",
+                  "coachingAbility": "65",
+                  "name": "Jack Curtis",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "LOU",
+                  "LSU",
+                  "USM",
+                  "AUB"
+               ],
+               "rivalryNames": {
+                  "LSU": "Battle for the Tiger Rag",
+                  "USM": "Battle for the Bell"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "38",
+                  "ratOff": "65",
+                  "cumulativePrestige": "0",
+                  "ratDef": "67",
+                  "homeState": "Illinois",
+                  "ratPot": "84",
+                  "hometown": "Julian",
+                  "ratTalent": "88",
+                  "baselinePrestige": "50",
+                  "name": "Willie Fritz",
+                  "contractYear": "1"
+               },
+               "name": "Tulane",
+               "state": "Louisiana"
+            },
+            {
+               "abbreviation": "USF",
+               "prestige": "25",
+               "hexColor": "#006747",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "53",
+                  "cumulativePrestige": "0",
+                  "homeState": "Florida",
+                  "ratPot": "53",
+                  "hometown": "Wausa",
+                  "ratTalent": "58",
+                  "baselinePrestige": "40",
+                  "coachingAbility": "68",
+                  "name": "Charlie Weis",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Georgia",
+                  "ratPot": "72",
+                  "hometown": "Ruidoso",
+                  "ratTalent": "80",
+                  "baselinePrestige": "40",
+                  "coachingAbility": "64",
+                  "name": "Glenn Spencer",
+                  "contractYear": "1"
+               },
+               "rival": "UCF",
+               "rivalryNames": {
+                  "UCF": "The War on I-4"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "43",
+                  "ratOff": "55",
+                  "cumulativePrestige": "0",
+                  "ratDef": "55",
+                  "homeState": "Hawaii",
+                  "ratPot": "59",
+                  "hometown": "Towson",
+                  "ratTalent": "47",
+                  "baselinePrestige": "40",
+                  "name": "Jeff Scott",
+                  "contractYear": "1"
+               },
+               "name": "South Florida",
+               "state": "Florida"
+            }
+         ],
+         "confFullName": "The American",
+         "confPrestige": "60",
+         "confName": "AAC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "EMU",
+               "prestige": "25",
+               "hexColor": "#006633",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "42",
+                  "cumulativePrestige": "0",
+                  "homeState": "Iowa",
+                  "ratPot": "56",
+                  "hometown": "Iowa",
+                  "ratTalent": "55",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "59",
+                  "name": "Sean Coughlin",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "42",
+                  "cumulativePrestige": "0",
+                  "homeState": "Minnesota",
+                  "ratPot": "65",
+                  "hometown": "Graceville",
+                  "ratTalent": "45",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "60",
+                  "name": "Neal Neathery",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "CMU",
+                  "WMU"
+               ],
+               "rivalryNames": {
+                  "CMU": "Michigan MAC Trophy",
+                  "WMU": "Michigan MAC Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "33",
+                  "ratOff": "63",
+                  "cumulativePrestige": "0",
+                  "ratDef": "64",
+                  "homeState": "Rhode Island",
+                  "ratPot": "62",
+                  "hometown": "Johnston",
+                  "ratTalent": "52",
+                  "baselinePrestige": "35",
+                  "name": "Chris Creighton",
+                  "contractYear": "2"
+               },
+               "name": "Eastern Michigan",
+               "state": "Michigan"
+            },
+            {
+               "abbreviation": "KENT",
+               "prestige": "25",
+               "hexColor": "#003876",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "36",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "61",
+                  "hometown": "Shallowater",
+                  "ratTalent": "49",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "67",
+                  "name": "Andrew Sowder",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "40",
+                  "cumulativePrestige": "0",
+                  "homeState": "Florida",
+                  "ratPot": "66",
+                  "hometown": "Nederland",
+                  "ratTalent": "46",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "63",
+                  "name": "Tom Kaufman",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "BGSU",
+                  "AKR"
+               ],
+               "rivalryNames": {
+                  "AKR": "Battle for the Wagon Wheel",
+                  "BGSU": "Battle for the Anniversary Award"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "34",
+                  "ratOff": "90",
+                  "cumulativePrestige": "0",
+                  "ratDef": "65",
+                  "homeState": "Wisconsin",
+                  "ratPot": "95",
+                  "hometown": "Madison",
+                  "ratTalent": "75",
+                  "baselinePrestige": "35",
+                  "name": "Sean Lewis",
+                  "contractYear": "2"
+               },
+               "name": "Kent State",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "CMU",
+               "prestige": "25",
+               "hexColor": "#6A0032",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "44",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "62",
+                  "hometown": "Temecula",
+                  "ratTalent": "56",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "64",
+                  "name": "Kevin Barbay",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "33",
+                  "cumulativePrestige": "0",
+                  "homeState": "Ohio",
+                  "ratPot": "74",
+                  "hometown": "Evansport",
+                  "ratTalent": "64",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "54",
+                  "name": "Robb Akey",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "EMU",
+                  "WMU"
+               ],
+               "rivalryNames": {
+                  "EMU": "Michigan MAC Trophy",
+                  "WMU": "Michigan MAC Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "40",
+                  "ratOff": "65",
+                  "cumulativePrestige": "0",
+                  "ratDef": "59",
+                  "homeState": "Delaware",
+                  "ratPot": "60",
+                  "hometown": "Selbyville",
+                  "ratTalent": "58",
+                  "baselinePrestige": "35",
+                  "name": "Jim Mcelwain",
+                  "contractYear": "2"
+               },
+               "name": "Central Michigan",
+               "state": "Michigan"
+            },
+            {
+               "abbreviation": "WMU",
+               "prestige": "25",
+               "hexColor": "#511A00",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "41",
+                  "cumulativePrestige": "0",
+                  "homeState": "Minnesota",
+                  "ratPot": "61",
+                  "hometown": "Buffalo",
+                  "ratTalent": "61",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "60",
+                  "name": "Tom Leonard",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "35",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oregon",
+                  "ratPot": "61",
+                  "hometown": "Grants Pass",
+                  "ratTalent": "52",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "63",
+                  "name": "Lou Esposito",
+                  "contractYear": "2"
+               },
+               "rival": [
+                  "NIU",
+                  "EMU",
+                  "CMU"
+               ],
+               "rivalryNames": {
+                  "EMU": "Michigan MAC Trophy",
+                  "CMU": "Michigan MAC Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "47",
+                  "ratOff": "61",
+                  "cumulativePrestige": "0",
+                  "ratDef": "56",
+                  "homeState": "Georgia",
+                  "ratPot": "65",
+                  "hometown": "Rock Spring",
+                  "ratTalent": "62",
+                  "baselinePrestige": "35",
+                  "name": "Tim Lester",
+                  "contractYear": "1"
+               },
+               "name": "Western Michigan",
+               "state": "Michigan"
+            },
+            {
+               "abbreviation": "BALL",
+               "prestige": "25",
+               "hexColor": "#BA0C2F",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "55",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oklahoma",
+                  "ratPot": "62",
+                  "hometown": "Porum",
+                  "ratTalent": "60",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "66",
+                  "name": "Kevin Lynch",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "52",
+                  "cumulativePrestige": "0",
+                  "homeState": "Florida",
+                  "ratPot": "61",
+                  "hometown": "Gulf Breeze",
+                  "ratTalent": "49",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "68",
+                  "name": "Tyler Stockton",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "CTN",
+                  "NIU",
+                  "MIOH"
+               ],
+               "rivalryNames": {
+                  "NIU": "Battle for the Bronze Stalk Trophy",
+                  "MIOH": "Red Bird Rivalry Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "40",
+                  "ratOff": "86",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "Oregon",
+                  "ratPot": "80",
+                  "hometown": "La Grande",
+                  "ratTalent": "70",
+                  "baselinePrestige": "35",
+                  "name": "Mike Neu",
+                  "contractYear": "5"
+               },
+               "name": "Ball State",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "NIU",
+               "prestige": "25",
+               "hexColor": "#BA0C2F",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "62",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wisconsin",
+                  "ratPot": "63",
+                  "hometown": "Racine",
+                  "ratTalent": "65",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "62",
+                  "name": "Roy Wittke",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "Ohio",
+                  "ratPot": "61",
+                  "hometown": "Cincinatti",
+                  "ratTalent": "58",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "62",
+                  "name": "Derrick Jackson",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "WMU",
+                  "BALL"
+               ],
+               "rivalryNames": {
+                  "BALL": "Battle for the Bronze Stalk Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "39",
+                  "ratOff": "60",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "New Jersey",
+                  "ratPot": "51",
+                  "hometown": "Jersey City",
+                  "ratTalent": "59",
+                  "baselinePrestige": "35",
+                  "name": "Thomas Hammock",
+                  "contractYear": "3"
+               },
+               "name": "Northern Illinois",
+               "state": "Illinois"
+            },
+            {
+               "abbreviation": "MIOH",
+               "prestige": "35",
+               "hexColor": "#E21836",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "55",
+                  "cumulativePrestige": "0",
+                  "homeState": "New York",
+                  "ratPot": "62",
+                  "hometown": "Glens Falls",
+                  "ratTalent": "54",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "63",
+                  "name": "Eric Koehler",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "63",
+                  "hometown": "Rosenberg",
+                  "ratTalent": "47",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "60",
+                  "name": "John Hauser",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "OHIO",
+                  "CIN",
+                  "BALL"
+               ],
+               "rivalryNames": {
+                  "OHIO": "Battle of the Bricks",
+                  "CIN": "Battle for the Victory Bell",
+                  "BALL": "Red Bird Rivalry Trophy"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "53",
+                  "ratOff": "65",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "West Virginia",
+                  "ratPot": "60",
+                  "hometown": "Saint Albans",
+                  "ratTalent": "63",
+                  "baselinePrestige": "35",
+                  "name": "Chuck Martin",
+                  "contractYear": "3"
+               },
+               "name": "Miami OH",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "BGSU",
+               "prestige": "25",
+               "hexColor": "#FE5000",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "49",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "69",
+                  "hometown": "Franklin",
+                  "ratTalent": "58",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "69",
+                  "name": "Terry Malone",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "41",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kentucky",
+                  "ratPot": "61",
+                  "hometown": "Fall Rock",
+                  "ratTalent": "49",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "62",
+                  "name": "Brian Vangorder",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "KENT",
+                  "TOL"
+               ],
+               "rivalryNames": {
+                  "TOL": "Battle of I-75",
+                  "KENT": "Battle for the Anniversary Award"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "44",
+                  "ratOff": "60",
+                  "cumulativePrestige": "0",
+                  "ratDef": "64",
+                  "homeState": "South Carolina",
+                  "ratPot": "60",
+                  "hometown": "Ballentine",
+                  "ratTalent": "67",
+                  "baselinePrestige": "35",
+                  "name": "Scot Loeffler",
+                  "contractYear": "3"
+               },
+               "name": "Bowling Green",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "TOL",
+               "prestige": "30",
+               "hexColor": "#0A2240",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "37",
+                  "cumulativePrestige": "0",
+                  "homeState": "Maryland",
+                  "ratPot": "61",
+                  "hometown": "Arnold",
+                  "ratTalent": "51",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "57",
+                  "name": "Mike Hallett",
+                  "contractYear": "2"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "59",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "65",
+                  "hometown": "Progreso",
+                  "ratTalent": "61",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "55",
+                  "name": "Vince Kehres",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "NYP",
+                  "BGSU"
+               ],
+               "rivalryNames": {
+                  "BGSU": "Battle of I-75"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "44",
+                  "ratOff": "67",
+                  "cumulativePrestige": "0",
+                  "ratDef": "61",
+                  "homeState": "Oregon",
+                  "ratPot": "64",
+                  "hometown": "Adrian",
+                  "ratTalent": "56",
+                  "baselinePrestige": "35",
+                  "name": "Jason Candle",
+                  "contractYear": "4"
+               },
+               "name": "Toledo",
+               "state": "Ohio"
+            },
+            {
+               "abbreviation": "OHIO",
+               "prestige": "30",
+               "hexColor": "#007053",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "44",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kentucky",
+                  "ratPot": "69",
+                  "hometown": "Sedalia",
+                  "ratTalent": "65",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "58",
+                  "name": "Tim Albin",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "35",
+                  "cumulativePrestige": "0",
+                  "homeState": "Missouri",
+                  "ratPot": "53",
+                  "hometown": "Central West End",
+                  "ratTalent": "58",
+                  "baselinePrestige": "35",
+                  "coachingAbility": "62",
+                  "name": "Ron Collins",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "MIOH",
+                  "MRSH"
+               ],
+               "rivalryNames": {
+                  "MRSH": "Battle for the Bell",
+                  "MIOH": "Battle of the Bricks"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "51",
+                  "ratOff": "67",
+                  "cumulativePrestige": "0",
+                  "ratDef": "58",
+                  "homeState": "Kansas",
+                  "ratPot": "65",
+                  "hometown": "Bennington",
+                  "ratTalent": "61",
+                  "baselinePrestige": "35",
+                  "name": "Frank Solich",
+                  "contractYear": "3"
+               },
+               "name": "Ohio",
+               "state": "Ohio"
+            }
+         ],
+         "confFullName": "MAC",
+         "confPrestige": "25",
+         "confName": "MAC"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "LIB",
+               "prestige": "25",
+               "hexColor": "#041D40",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "Louisiana",
+                  "ratPot": "60",
+                  "hometown": "Baton Rouge",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Kent Austin",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "39",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oklahoma",
+                  "ratPot": "60",
+                  "hometown": "Tulsa",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Josh Aldridge",
+                  "contractYear": "1"
+               },
+               "rival": "CCU",
+               "rivalryNames": {
+               },
+               "headCoach": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "53",
+                  "ratOff": "80",
+                  "cumulativePrestige": "0",
+                  "ratDef": "75",
+                  "homeState": "Oklahoma",
+                  "ratPot": "85",
+                  "hometown": "Tulsa",
+                  "ratTalent": "80",
+                  "baselinePrestige": "25",
+                  "name": "Hugh Freeze",
+                  "contractYear": "1"
+               },
+               "name": "Liberty",
+               "state": "Virginia"
+            },
+            {
+               "abbreviation": "WKU",
+               "prestige": "25",
+               "hexColor": "#C60C30",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "Nebraska",
+                  "ratPot": "69",
+                  "hometown": "Plainview",
+                  "ratTalent": "58",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "63",
+                  "name": "Zach Kittley",
+                  "contractYear": "2"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "38",
+                  "cumulativePrestige": "0",
+                  "homeState": "Alaska",
+                  "ratPot": "66",
+                  "hometown": "Tudor Area",
+                  "ratTalent": "68",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "67",
+                  "name": "Maurice Crum",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "MTSU",
+                  "MRSH"
+               ],
+               "rivalryNames": {
+                  "MTSU": "100 Miles of Hate",
+                  "MRSH": "The Moonshine Throwdown"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "45",
+                  "ratOff": "74",
+                  "cumulativePrestige": "0",
+                  "ratDef": "59",
+                  "homeState": "Michigan",
+                  "ratPot": "60",
+                  "hometown": "East China",
+                  "ratTalent": "58",
+                  "baselinePrestige": "25",
+                  "name": "Tyson Helton",
+                  "contractYear": "3"
+               },
+               "name": "Western Kentucky",
+               "state": "Kentucky"
+            },
+            {
+               "abbreviation": "UTSA",
+               "prestige": "25",
+               "hexColor": "#0C2340",
+               "offCoordinator": {
+                  "contractLength": "7",
+                  "startYear": "2021",
+                  "age": "32",
+                  "cumulativePrestige": "0",
+                  "homeState": "Arkansas",
+                  "ratPot": "75",
+                  "hometown": "Fort Smith",
+                  "ratTalent": "75",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "80",
+                  "name": "Barry Lunney Jr.",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "7",
+                  "startYear": "2021",
+                  "age": "32",
+                  "cumulativePrestige": "0",
+                  "homeState": "Louisiana",
+                  "ratPot": "60",
+                  "hometown": "Rosholt",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Jason Rollins",
+                  "contractYear": "1"
+               },
+               "rival": "UTEP",
+               "rivalryNames": {
+               },
+               "headCoach": {
+                  "contractLength": "7",
+                  "startYear": "2021",
+                  "age": "53",
+                  "ratOff": "85",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "Texas",
+                  "ratPot": "80",
+                  "hometown": "Gilmer",
+                  "ratTalent": "80",
+                  "baselinePrestige": "25",
+                  "name": "Jeff Traylor",
+                  "contractYear": "1"
+               },
+               "name": "UTSA",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "UNT",
+               "prestige": "25",
+               "hexColor": "#00853E",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "Minnesota",
+                  "ratPot": "68",
+                  "hometown": "Malibu",
+                  "ratTalent": "66",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "61",
+                  "name": "Mike Bloesch",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "65",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "64",
+                  "hometown": "Indo",
+                  "ratTalent": "61",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "65",
+                  "name": "Phil Bennett",
+                  "contractYear": "2"
+               },
+               "rival": [
+                  "UTEP",
+                  "SMU"
+               ],
+               "rivalryNames": {
+                  "SMU": "Safeway Bowl"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "42",
+                  "ratOff": "65",
+                  "cumulativePrestige": "0",
+                  "ratDef": "71",
+                  "homeState": "Oklahoma",
+                  "ratPot": "61",
+                  "hometown": "Muskogee",
+                  "ratTalent": "77",
+                  "baselinePrestige": "25",
+                  "name": "Sean Litrell",
+                  "contractYear": "1"
+               },
+               "name": "North Texas",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "LT",
+               "prestige": "30",
+               "hexColor": "#002F8B",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "52",
+                  "cumulativePrestige": "0",
+                  "homeState": "Oregon",
+                  "ratPot": "68",
+                  "hometown": "Sherwood",
+                  "ratTalent": "69",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "58",
+                  "name": "Joe Sloan",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "55",
+                  "cumulativePrestige": "0",
+                  "homeState": "Washington",
+                  "ratPot": "62",
+                  "hometown": "Palouse",
+                  "ratTalent": "65",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "65",
+                  "name": "David Blackwell",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "USM",
+                  "ULM",
+                  "ULL"
+               ],
+               "rivalryNames": {
+                  "USM": "Battle in Dixie"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "45",
+                  "ratOff": "66",
+                  "cumulativePrestige": "0",
+                  "ratDef": "57",
+                  "homeState": "Kentucky",
+                  "ratPot": "61",
+                  "hometown": "Boons Camp",
+                  "ratTalent": "61",
+                  "baselinePrestige": "25",
+                  "name": "Skip Holtz",
+                  "contractYear": "5"
+               },
+               "name": "Louisiana Tech",
+               "state": "Louisiana"
+            },
+            {
+               "abbreviation": "UTEP",
+               "prestige": "25",
+               "hexColor": "#E6792B",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "American Samoa",
+                  "ratPot": "60",
+                  "hometown": "Aua",
+                  "ratTalent": "57",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "52",
+                  "name": "Dave Warner",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "57",
+                  "cumulativePrestige": "0",
+                  "homeState": "South Carolina",
+                  "ratPot": "54",
+                  "hometown": "Green Sea",
+                  "ratTalent": "50",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "59",
+                  "name": "Bradley Peveto",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "UTSA",
+                  "UNT"
+                ],
+               "rivalryNames": {
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "41",
+                  "ratOff": "56",
+                  "cumulativePrestige": "0",
+                  "ratDef": "50",
+                  "homeState": "Louisiana",
+                  "ratPot": "61",
+                  "hometown": "Shenandoah",
+                  "ratTalent": "63",
+                  "baselinePrestige": "25",
+                  "name": "Dana Dimel",
+                  "contractYear": "2"
+               },
+               "name": "UTEP",
+               "state": "Texas"
+            },
+            {
+               "abbreviation": "MTSU",
+               "prestige": "25",
+               "hexColor": "#0066CC",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "48",
+                  "cumulativePrestige": "0",
+                  "homeState": "Iowa",
+                  "ratPot": "66",
+                  "hometown": "Ackley",
+                  "ratTalent": "63",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "62",
+                  "name": "Brent Dearmon",
+                  "contractYear": "2"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "47",
+                  "cumulativePrestige": "0",
+                  "homeState": "Hawaii",
+                  "ratPot": "68",
+                  "hometown": "Village Park",
+                  "ratTalent": "69",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "58",
+                  "name": "Scott Shafer",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "WKU",
+                  "TROY"
+               ],
+               "rivalryNames": {
+                  "WKU": "100 Miles of Hate",
+                  "TROY": "Battle for the Palladium"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "32",
+                  "ratOff": "54",
+                  "cumulativePrestige": "0",
+                  "ratDef": "63",
+                  "homeState": "Florida",
+                  "ratPot": "65",
+                  "hometown": "Miami Beach",
+                  "ratTalent": "56",
+                  "baselinePrestige": "25",
+                  "name": "Rick Stockstill",
+                  "contractYear": "4"
+               },
+               "name": "Middle Tennessee",
+               "state": "Tennessee"
+            },
+            {
+               "abbreviation": "ARST",
+               "prestige": "25",
+               "hexColor": "#CC092F",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wisconsin",
+                  "ratPot": "65",
+                  "hometown": "Neosho",
+                  "ratTalent": "65",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "63",
+                  "name": "Keith Heckendorf",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "38",
+                  "cumulativePrestige": "0",
+                  "homeState": "Rhode Island",
+                  "ratPot": "66",
+                  "hometown": "Jamestown",
+                  "ratTalent": "63",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "64",
+                  "name": "Rob Harley",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "GASO",
+                  "MEM"
+               ],
+               "rivalryNames": {
+                  "MEM": "Paint Bucket Bowl"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "45",
+                  "ratOff": "56",
+                  "cumulativePrestige": "0",
+                  "ratDef": "67",
+                  "homeState": "California",
+                  "ratPot": "58",
+                  "hometown": "Pala",
+                  "ratTalent": "73",
+                  "baselinePrestige": "25",
+                  "name": "Butch Jones",
+                  "contractYear": "4"
+               },
+               "name": "Arkansas State",
+               "state": "Arkansas"
+            },
+            {
+               "abbreviation": "ULM",
+               "prestige": "25",
+               "hexColor": "#800029",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "53",
+                  "cumulativePrestige": "0",
+                  "homeState": "Hawaii",
+                  "ratPot": "63",
+                  "hometown": "Kaunakakai",
+                  "ratTalent": "62",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "61",
+                  "name": "Rich Rodriguez",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "41",
+                  "cumulativePrestige": "0",
+                  "homeState": "Mississippi",
+                  "ratPot": "68",
+                  "hometown": "Quitman",
+                  "ratTalent": "61",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "52",
+                  "name": "Zac Alley",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "ULL",
+                  "LT"
+               ],
+               "rivalryNames": {
+                  "ULL": "Battle on the Bayou"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "59",
+                  "ratOff": "70",
+                  "cumulativePrestige": "0",
+                  "ratDef": "68",
+                  "homeState": "Florida",
+                  "ratPot": "67",
+                  "hometown": "Lynn Haven",
+                  "ratTalent": "65",
+                  "baselinePrestige": "25",
+                  "name": "Terry Bowden",
+                  "contractYear": "3"
+               },
+               "name": "Louisiana Monroe",
+               "state": "Louisiana"
+            },
+            {
+               "abbreviation": "ULL",
+               "prestige": "25",
+               "hexColor": "#CE181E",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "38",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "64",
+                  "hometown": "Pinehurst",
+                  "ratTalent": "62",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "64",
+                  "name": "William Napier",
+                  "contractYear": "2"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "43",
+                  "cumulativePrestige": "0",
+                  "homeState": "Louisiana",
+                  "ratPot": "65",
+                  "hometown": "Youngsville",
+                  "ratTalent": "59",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "65",
+                  "name": "Patrick Toney",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "ULM",
+                  "LT"
+               ],
+               "rivalryNames": {
+                  "ULM": "Battle on the Bayou"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "42",
+                  "ratOff": "68",
+                  "cumulativePrestige": "0",
+                  "ratDef": "59",
+                  "homeState": "Vermont",
+                  "ratPot": "56",
+                  "hometown": "Shoreham",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "name": "Billy Napier",
+                  "contractYear": "5"
+               },
+               "name": "Louisiana",
+               "state": "Louisiana"
+            }
+         ],
+         "confFullName": "Conference USA",
+         "confPrestige": "30",
+         "confName": "CUSA"
+      },
+      {
+         "confTeams": [
+            {
+               "abbreviation": "APP",
+               "prestige": "35",
+               "hexColor": "#FFCC00",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "33",
+                  "cumulativePrestige": "0",
+                  "homeState": "Wyoming",
+                  "ratPot": "64",
+                  "hometown": "Moran",
+                  "ratTalent": "55",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "62",
+                  "name": "Frank Ponce",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "53",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kentucky",
+                  "ratPot": "64",
+                  "hometown": "Sandy Hook",
+                  "ratTalent": "68",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "67",
+                  "name": "Dale Jones",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "CCU",
+                  "GASO"
+               ],
+               "rivalryNames": {
+                  "GASO": "Deeper than Hate"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "59",
+                  "ratOff": "73",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "Wisconsin",
+                  "ratPot": "63",
+                  "hometown": "Onalaska",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "name": "Shawn Clark",
+                  "contractYear": "1"
+               },
+               "name": "Appalachian State",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "TROY",
+               "prestige": "25",
+               "hexColor": "#8A2432",
+               "offCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "Georgia",
+                  "ratPot": "62",
+                  "hometown": "Lincolnton",
+                  "ratTalent": "62",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "65",
+                  "name": "Luke Meadows",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "46",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "51",
+                  "hometown": "Dorris",
+                  "ratTalent": "66",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Brandon Hall",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "MTSU"
+               ],
+               "rivalryNames": {
+                  "MTSU": "Battle for the Palladium"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "47",
+                  "ratOff": "64",
+                  "cumulativePrestige": "0",
+                  "ratDef": "65",
+                  "homeState": "Kansas",
+                  "ratPot": "61",
+                  "hometown": "Spring Hill",
+                  "ratTalent": "67",
+                  "baselinePrestige": "25",
+                  "name": "Chip Lindsey",
+                  "contractYear": "1"
+               },
+               "name": "Troy",
+               "state": "Alabama"
+            },
+            {
+               "abbreviation": "USM",
+               "prestige": "25",
+               "hexColor": "#FFAB00",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "52",
+                  "cumulativePrestige": "0",
+                  "homeState": "Hawaii",
+                  "ratPot": "64",
+                  "hometown": "Kaanapali",
+                  "ratTalent": "61",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "66",
+                  "name": "Cayden Cochran",
+                  "contractYear": "2"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "45",
+                  "cumulativePrestige": "0",
+                  "homeState": "Texas",
+                  "ratPot": "63",
+                  "hometown": "Lasara",
+                  "ratTalent": "55",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Austin Armstrong",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "MRSH",
+                  "LT",
+                  "TULN",
+                  "MEM"
+               ],
+               "rivalryNames": {
+                  "LT": "Battle in Dixie",
+                  "TULN": "Battle for the Bell",
+                  "USM": "Blue and Black Bowl"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "34",
+                  "ratOff": "58",
+                  "cumulativePrestige": "0",
+                  "ratDef": "62",
+                  "homeState": "District of Columbia",
+                  "ratPot": "62",
+                  "hometown": "Dupont Circle",
+                  "ratTalent": "61",
+                  "baselinePrestige": "25",
+                  "name": "Will Hall",
+                  "contractYear": "3"
+               },
+               "name": "Southern Miss",
+               "state": "Mississippi"
+            },
+            {
+               "abbreviation": "CCU",
+               "prestige": "25",
+               "hexColor": "#006F71",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "33",
+                  "cumulativePrestige": "0",
+                  "homeState": "Georgia",
+                  "ratPot": "53",
+                  "hometown": "Dunwoody",
+                  "ratTalent": "50",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "57",
+                  "name": "Newland Isaac",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "2",
+                  "startYear": "2021",
+                  "age": "51",
+                  "cumulativePrestige": "0",
+                  "homeState": "Michigan",
+                  "ratPot": "66",
+                  "hometown": "Rochester Hills",
+                  "ratTalent": "56",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "64",
+                  "name": "Chad Staggs",
+                  "contractYear": "1"
+               },
+               "rival": "APP",
+               "rivalryNames": {},
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "35",
+                  "ratOff": "90",
+                  "cumulativePrestige": "25",
+                  "ratDef": "75",
+                  "homeState": "Maryland",
+                  "ratPot": "95",
+                  "hometown": "Joppa",
+                  "ratTalent": "90",
+                  "baselinePrestige": "25",
+                  "name": "Jamey Chadwell",
+                  "contractYear": "5"
+               },
+               "name": "Coastal Carolina",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "ODU",
+               "prestige": "25",
+               "hexColor": "#003057",
+               "offCoordinator": {
+                  "contractLength": "4",
+                  "startYear": "2021",
+                  "age": "34",
+                  "cumulativePrestige": "0",
+                  "homeState": "Pennsylvania",
+                  "ratPot": "60",
+                  "hometown": "Boalsburg",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Kirk Campbell",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "4",
+                  "startYear": "2021",
+                  "age": "33",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kansas",
+                  "ratPot": "60",
+                  "hometown": "Goddard",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Blake Seiler",
+                  "contractYear": "1"
+               },
+               "rival": "JMU",
+               "rivalryNames": {},
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "41",
+                  "ratOff": "50",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "Colorado",
+                  "ratPot": "60",
+                  "hometown": "Morrison",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "name": "Ricky Rahne",
+                  "contractYear": "2"
+               },
+               "name": "Old Dominion",
+               "state": "Virginia"
+            },
+            {
+               "abbreviation": "JMU",
+               "prestige": "25",
+               "hexColor": "#450084",
+               "offCoordinator": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "32",
+                  "cumulativePrestige": "0",
+                  "homeState": "Pennsylvania",
+                  "ratPot": "70",
+                  "hometown": "North Huntington",
+                  "ratTalent": "70",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "75",
+                  "name": "Mike Shanahan",
+                  "contractYear": "3"
+               },
+               "defCoordinator": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "38",
+                  "cumulativePrestige": "0",
+                  "homeState": "Massachusetts",
+                  "ratPot": "70",
+                  "hometown": "Oxford",
+                  "ratTalent": "70",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "70",
+                  "name": "Corey Hetherman",
+                  "contractYear": "3"
+               },
+               "rival": "ODU",
+               "rivalryNames": {},
+               "headCoach": {
+                  "contractLength": "7",
+                  "startYear": "2021",
+                  "age": "60",
+                  "ratOff": "75",
+                  "cumulativePrestige": "0",
+                  "ratDef": "65",
+                  "homeState": "Pennsylvania",
+                  "ratPot": "75",
+                  "hometown": "Pittsburgh",
+                  "ratTalent": "70",
+                  "baselinePrestige": "25",
+                  "name": "Curt Cignetti",
+                  "contractYear": "3"
+               },
+               "name": "James Madison",
+               "state": "Virginia"
+            },
+            {
+               "abbreviation": "ECU",
+               "prestige": "25",
+               "hexColor": "#592A8A",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "40",
+                  "cumulativePrestige": "0",
+                  "homeState": "California",
+                  "ratPot": "68",
+                  "hometown": "Orcutt",
+                  "ratTalent": "51",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "68",
+                  "name": "Donnie Kirkpatrick",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "47",
+                  "cumulativePrestige": "0",
+                  "homeState": "New Jersey",
+                  "ratPot": "63",
+                  "hometown": "Stone Harbor",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "68",
+                  "name": "Blake Harrell",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "NCST"
+               ],
+               "rivalryNames": {
+                  "NCST": "Battle for the Victory Barrel"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "36",
+                  "ratOff": "55",
+                  "cumulativePrestige": "0",
+                  "ratDef": "52",
+                  "homeState": "California",
+                  "ratPot": "68",
+                  "hometown": "Mariposa",
+                  "ratTalent": "59",
+                  "baselinePrestige": "25",
+                  "name": "Mike Houston",
+                  "contractYear": "4"
+               },
+               "name": "East Carolina",
+               "state": "North Carolina"
+            },
+            {
+               "abbreviation": "MRSH",
+               "prestige": "25",
+               "hexColor": "#00B140",
+               "offCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "43",
+                  "cumulativePrestige": "0",
+                  "homeState": "Georgia",
+                  "ratPot": "65",
+                  "hometown": "Pooler",
+                  "ratTalent": "45",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Tim Cramsey",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "50",
+                  "cumulativePrestige": "0",
+                  "homeState": "North Carolina",
+                  "ratPot": "64",
+                  "hometown": "Welcome",
+                  "ratTalent": "64",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "67",
+                  "name": "Lance Guidry",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "USM",
+                  "WKU",
+                  "OHIO"
+               ],
+               "rivalryNames": {
+                  "WVU": "Friends of Coal Bowl",
+                  "OHIO": "Battle for the Bell",
+                  "WKU": "The Moonshine Throwdown"
+               },
+               "headCoach": {
+                  "contractLength": "6",
+                  "startYear": "2021",
+                  "age": "54",
+                  "ratOff": "66",
+                  "cumulativePrestige": "0",
+                  "ratDef": "74",
+                  "homeState": "Maine",
+                  "ratPot": "55",
+                  "hometown": "Camden",
+                  "ratTalent": "58",
+                  "baselinePrestige": "25",
+                  "name": "Charlie Huff",
+                  "contractYear": "1"
+               },
+               "name": "Marshall",
+               "state": "West Virginia"
+            },
+            {
+               "abbreviation": "GAST",
+               "prestige": "25",
+               "hexColor": "#0032A0",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "48",
+                  "cumulativePrestige": "0",
+                  "homeState": "South Carolina",
+                  "ratPot": "60",
+                  "hometown": "Clemson",
+                  "ratTalent": "60",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Trent McKnight",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "40",
+                  "cumulativePrestige": "0",
+                  "homeState": "Kentucky",
+                  "ratPot": "75",
+                  "hometown": "Danville",
+                  "ratTalent": "75",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "73",
+                  "name": "Nathan Fuqua",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "GASO"
+               ],
+               "rivalryNames": {
+                  "GASO": "Modern Day Hate"
+               },
+               "headCoach": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "48",
+                  "ratOff": "60",
+                  "cumulativePrestige": "0",
+                  "ratDef": "60",
+                  "homeState": "South Carolina",
+                  "ratPot": "60",
+                  "hometown": "Camden",
+                  "ratTalent": "67",
+                  "baselinePrestige": "25",
+                  "name": "Shawn Elliot",
+                  "contractYear": "1"
+               },
+               "name": "Georgia State",
+               "state": "Georgia"
+            },
+            {
+               "abbreviation": "GASO",
+               "prestige": "25",
+               "hexColor": "#011E41",
+               "offCoordinator": {
+                  "contractLength": "3",
+                  "startYear": "2021",
+                  "age": "41",
+                  "cumulativePrestige": "0",
+                  "homeState": "Maine",
+                  "ratPot": "55",
+                  "hometown": "Oakland",
+                  "ratTalent": "46",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "51",
+                  "name": "Bryan Ellis",
+                  "contractYear": "1"
+               },
+               "defCoordinator": {
+                  "contractLength": "1",
+                  "startYear": "2021",
+                  "age": "38",
+                  "cumulativePrestige": "0",
+                  "homeState": "New Mexico",
+                  "ratPot": "56",
+                  "hometown": "Cedar Crest",
+                  "ratTalent": "71",
+                  "baselinePrestige": "25",
+                  "coachingAbility": "60",
+                  "name": "Will Harris",
+                  "contractYear": "1"
+               },
+               "rival": [
+                  "APP",
+                  "GAST"
+               ],
+               "rivalryNames": {
+                  "APP": "Deeper than Hate",
+                  "GAST": "Modern Day Hate"
+               },
+               "headCoach": {
+                  "contractLength": "4",
+                  "startYear": "2021",
+                  "age": "48",
+                  "ratOff": "66",
+                  "cumulativePrestige": "0",
+                  "ratDef": "65",
+                  "homeState": "Georgia",
+                  "ratPot": "60",
+                  "hometown": "Guyton",
+                  "ratTalent": "68",
+                  "baselinePrestige": "25",
+                  "name": "Clay Helton",
+                  "contractYear": "1"
+               },
+               "name": "Georgia Southern",
+               "state": "Georgia"
+            }
+         ],
+         "confFullName": "Sun Belt",
+         "confPrestige": "45",
+         "confName": "SBC"
+      }
+   ],
+   "bowlGames": [
+      "Rose Bowl Game",
+      "Sugar Bowl",
+      "Orange Bowl",
+      "Cotton Bowl Classic",
+      "Peach Bowl",
+      "Fiesta Bowl",
+      "Sun Bowl",
+      "Gator Bowl",
+      "Florida Citrus Bowl",
+      "Liberty Bowl",
+      "Holiday Bowl",
+      "Bluebonnet Bowl",
+      "Alamo Bowl",
+      "Independence Bowl",
+      "Dixie Bowl",
+      "Hall of Fame Classic",
+      "California Bowl",
+      "Aloha Bowl",
+      "Freedom Bowl",
+      "Garden State Bowl",
+      "Cherry Bowl",
+      "Texas Bowl",
+      "Bluegrass Bowl",
+      "Oil Bowl",
+      "Copper Bowl",
+      "Aviation Bowl",
+      "Harbor Bowl",
+      "Cigar Bowl",
+      "Pineapple Bowl",
+      "Great Lakes Bowl",
+      "Delta Bowl",
+      "Shrine Bowl",
+      "Camellia Bowl",
+      "Raisin Bowl",
+      "Bacardi Bowl",
+      "Charity Bowl"
+   ]
+}
