@@ -1406,7 +1406,7 @@
             },
             {
                "abbreviation": "UNC",
-               "prestige": "75",
+               "prestige": "50",
                "hexColor": "#7BAFD4",
                "offCoordinator": {
                   "contractLength": "1",
